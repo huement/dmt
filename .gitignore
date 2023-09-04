@@ -1,0 +1,16 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.phpunit.result.cache
+# .env
+.history
+/.history
+_INSPIRE
+/_TODO
+/NODE_IMGs
+/libraries/node_scripts/node_modules
+output/*
+output
+OLD_README.md
+.DS_Store
