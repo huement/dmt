@@ -1,0 +1,34 @@
+ 
+{
+    "includes": [
+        "src", "bin"
+    ],
+    "excludes": [
+        "out", "vendor"
+    ],
+    "report": {
+        "html": "report/html",
+        "csv": "report/report.csv",
+        "json": "report/report.json",
+        "violations": "report/violations.xml"
+    },
+    "groups": [
+        {
+            "name": "Wallpaper",
+            "match": "!wallpaper!i"
+        },
+        {
+            "name": "Art",
+            "match": "!Art!"
+        },
+        {
+            "name": "Canvas",
+            "match": "!canvas!"
+        }
+    ],
+    "plugins": {
+       "git": {
+          "binary": "git"
+        }
+    }
+}

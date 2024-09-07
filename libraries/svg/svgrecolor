@@ -1,0 +1,24 @@
+#!/bin/bash
+folder="$1/.{svg,SVG}"
+fromcolor="$2"
+tocolor="$3"
+
+# Check for First Param
+if [[ -z "$1" ]]; then
+    echo "Target Directory not given."
+    echo -e "forat is as follows:\n  svgrecolor [path] [#from] [#to]\n"
+    exit 1
+fi
+
+# Check for Color Params. If Found, Recolor Files.
+if [[ -z "$fromcolor" || -z "$tocolor" ]]; then
+    echo "Please specify colors."
+    exit 1
+else
+    find . -type f -name "$folder" -print0 | while IFS= read -r -d '' file; do
+        if [[ $(grep "$fromcolor" "$file") ]]; then
+            echo "Replacing $fromcolor with $tocolor in $file"
+            sed -i "s/$fromcolor/$tocolor/g" "$file"
+        fi
+    done
+fi

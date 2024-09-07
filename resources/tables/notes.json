@@ -1,0 +1,12 @@
+{
+    "id": "integer",
+    "notebook_id": "integer",
+    "note_id": "string",
+    "content": "string",
+    "author": "string",
+    "tags": "string",
+    "path": "string",
+    "hash": "string",
+    "created": "string",
+    "updated": "string"
+}

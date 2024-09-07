@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Guides__x26__Labels">
+</g>
+<g id="Icons_-_V2">
+	<g>
+		<rect x="15.648" y="10.486" width="2" height="2"/>
+		<rect x="15.648" y="14.486" width="2" height="2"/>
+		<rect x="15.648" y="18.486" width="2" height="2"/>
+		<rect x="15.648" y="22.486" width="2" height="2"/>
+		<rect x="15.648" y="26.486" width="2" height="2"/>
+		<path d="M26.648,13.486c-3.313,0-6,2.686-6,6c0,3.312,2.687,6,6,6c3.314,0,6-2.688,6-6C32.648,16.172,29.962,13.486,26.648,13.486
+			z M26.648,23.486c-2.209,0-4-1.791-4-4s1.791-4,4-4s4,1.791,4,4S28.857,23.486,26.648,23.486z"/>
+		<circle cx="6.648" cy="19.486" r="6"/>
+		<path d="M22.856,9.689l-0.859-4.647l-1.216,1.213c-1.086-1.094-2.583-1.862-4.246-1.862c-3.034,0-5.536,2.093-5.938,5.093h2.024
+			c0.378-2,1.986-3.093,3.914-3.093c1.111,0,2.108,0.503,2.833,1.233l-1.159,1.18L22.856,9.689z"/>
+	</g>
+</g>
+</svg>

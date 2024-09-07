@@ -1,0 +1,123 @@
+{
+    "Wallpaper_Types": ["Circle", "Rectangle", "Modern"],
+    "Wallpapers": [
+        {
+            "Circle": [
+                {
+                    "name": "Ring of Cool",
+                    "desc": "",
+                    "function": "inlineCircleGen",
+                    "params": false,
+                    "category": "circle"
+                },
+                {
+                    "name": "Random Circle Grid",
+                    "desc": "",
+                    "function": "rowsOfCircleGen",
+                    "params": "random",
+                    "category": "circle"
+                },
+                {
+                    "name": "Rows & Rows of Circles",
+                    "desc": "",
+                    "function": "rowsOfCircleGen",
+                    "params": "solid",
+                    "category": "circle"
+                },
+
+                {
+                    "name": "Cool Circles",
+                    "desc": "cluster of compounded circles tight & center",
+                    "function": "coolCircles",
+                    "params": false,
+                    "category": "circle"
+                },
+                {
+                    "name": "Rainbow Stack",
+                    "desc": "classic rainbow",
+                    "function": "rainbowStack",
+                    "params": [true, true],
+                    "category": "circle"
+                },
+                {
+                    "name": "Rainbow Rings",
+                    "desc": "giant full circle rainbow",
+                    "function": "rainbowStack",
+                    "params": [false, false],
+                    "category": "circle"
+                },
+                {
+                    "name": "Circle Party",
+                    "desc": "line art rainbow rings",
+                    "function": "circlePartyGen",
+                    "params": false,
+                    "category": "circle"
+                },
+                {
+                    "name": "Bunch of Random Dots",
+                    "desc": "everywhere, all the time",
+                    "function": "dotsGen",
+                    "params": false,
+                    "category": "circle"
+                }
+            ]
+        },
+        {
+            "Rectangle": [
+                {
+                    "name": "Round Rectangles",
+                    "desc": "round blocks tight & center",
+                    "function": "roundRectGen",
+                    "params": false,
+                    "category": "rectangle"
+                },
+                {
+                    "name": "Round Rectangle Wave",
+                    "desc": "round up & down blocks",
+                    "function": "roundRectGen",
+                    "params": "random",
+                    "category": "rectangle"
+                },
+                {
+                    "name": "Half Spectrum",
+                    "desc": "small centered blocks",
+                    "function": "specRectGen",
+                    "params": true,
+                    "category": "rectangle"
+                },
+                {
+                    "name": "Full Spectrum",
+                    "desc": "like 1/2 Spec, but for full B16 theme",
+                    "function": "specRectGen",
+                    "params": "full",
+                    "category": "rectangle"
+                },
+                {
+                    "name": "Cave of Colors",
+                    "desc": "jagged rows tight & center",
+                    "function": "caveGen",
+                    "params": false,
+                    "category": "rectangle"
+                },
+                {
+                    "name": "Cavern of Colors",
+                    "desc": "full screen jagged rows",
+                    "function": "caveGen",
+                    "params": true,
+                    "category": "rectangle"
+                }
+            ]
+        },
+        {
+            "Modern": [
+                {
+                    "name": "Paint Splatters",
+                    "desc": "",
+                    "function": "paintGen",
+                    "params": false,
+                    "category": "modern"
+                }
+            ]
+        }
+    ]
+}

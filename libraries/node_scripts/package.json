@@ -1,0 +1,44 @@
+{
+    "name": "phreak",
+    "version": "0.1.0",
+    "description": "SVG Manipulation & Creation Station",
+    "main": "svg_colors.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/huement/phreak.git"
+    },
+    "keywords": [
+        "Vector",
+        "Graphics",
+        "SVG",
+        "PHPSVG",
+        "PHP",
+        "SVG",
+        "EPS",
+        "Icons",
+        "IconKit",
+        "Design",
+        "Tokens",
+        "Pattern",
+        "Lab"
+    ],
+    "author": "Derek Scott",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/huement/phreak/issues"
+    },
+    "homepage": "https://github.com/huement/phreak#readme",
+    "dependencies": {
+        "asciiart-logo": "^0.2.6",
+        "chalk": "^2.4.2",
+        "get-svg-colors": "^1.5.1",
+        "glob": "^7.1.6",
+        "svgo": "file:svgo"
+    },
+    "devDependencies": {
+        "jshint": "^2.12.0"
+    }
+}

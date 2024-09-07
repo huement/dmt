@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Layer_1_1_">
+</g>
+<g id="Guides__x26__Labels">
+</g>
+<g id="Forms">
+</g>
+<g>
+	<polygon points="28,13 28,15 30,15 30,17 32,17 32,13 	"/>
+	<polygon points="30,25 28,25 28,27 32,27 32,23 30,23 	"/>
+	<polygon points="12,23 10,23 10,27 14,27 14,25 12,25 	"/>
+	<rect x="22" y="13" width="4" height="2"/>
+	<rect x="22" y="25" width="4" height="2"/>
+	<rect x="16" y="25" width="4" height="2"/>
+	<rect x="30" y="19" width="2" height="2"/>
+	<path d="M4,13l3.757,0l0.586,0.586l2.08-2.081C9.933,11.178,9.354,11,8.757,11c-0.462,0-0.824,0-1.312,0C7.789,10.41,8,9.732,8,9
+		c0-2.209-1.791-4-4-4S0,6.791,0,9C0,11.209,1.791,13,4,13z M4,7c1.105,0,2,0.895,2,2c0,1.105-0.895,2-2,2c-1.105,0-2-0.895-2-2
+		C2,7.895,2.895,7,4,7z"/>
+	<path d="M10.878,18.121l1-1l5.293,5.293C17.547,22.789,18.055,23,18.586,23H22l-8-8l8-8h-3.414c-0.53,0-1.039,0.211-1.414,0.586
+		L7.757,17L4,17c-2.209,0-4,1.791-4,4c0,2.209,1.791,4,4,4s4-1.791,4-4c0-0.732-0.211-1.41-0.555-2
+		C8.757,19,9.846,19.154,10.878,18.121z M4,23c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2C6,22.105,5.105,23,4,23z"/>
+</g>
+</svg>

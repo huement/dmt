@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="Guides__x26__Labels">
+</g>
+<g id="Icons">
+	<g>
+		<rect x="8" y="11" width="16" height="2"/>
+		<rect x="8" y="15" width="6" height="2"/>
+		<rect x="8" y="19" width="6" height="2"/>
+		<path d="M26,2H6C4.35,2,3,3.35,3,5v18c0,1.657,1.343,3,3,3h11v5l3-3l3,3v-5h3c1.657,0,3-1.343,3-3V5C29,3.35,27.65,2,26,2z M14,5
+			h2v2h-2V5z M10,5h2v2h-2V5z M6,5h2v2H6V5z M20,21c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2
+			C22,20.105,21.105,21,20,21z M26,23h-3v-1.38c0.615-0.703,1-1.613,1-2.62c0-2.209-1.791-4-4-4s-4,1.791-4,4
+			c0,1.008,0.385,1.917,1,2.62V23H6V9h20V23z"/>
+	</g>
+</g>
+</svg>

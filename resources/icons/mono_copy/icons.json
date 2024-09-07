@@ -1,0 +1,5261 @@
+{
+  "a11y": {
+    "name": "a11y",
+    "path": "a11y",
+    "size": "5.61 KB",
+    "icons": {
+      "american-sign-language-interpreting.svg": {
+        "name": "american-sign-language-interpreting.svg",
+        "path": "a11y/american-sign-language-interpreting.svg",
+        "size": "1.16 KB",
+        "hash": "fb0dc030778005ddb456b61869330977"
+      },
+      "audio-description.svg": {
+        "name": "audio-description.svg",
+        "path": "a11y/audio-description.svg",
+        "size": "831 B",
+        "hash": "be02f4c3d6138c1e64de6aaf07e95e61"
+      },
+      "braille.svg": {
+        "name": "braille.svg",
+        "path": "a11y/braille.svg",
+        "size": "1.36 KB",
+        "hash": "740e6a16faeed1eac8dba5d4270d977b"
+      },
+      "asl-interpreting.svg": {
+        "name": "asl-interpreting.svg",
+        "path": "a11y/asl-interpreting.svg",
+        "size": "720 B",
+        "hash": "1d3667b22ee2f5c92f2604db767266eb"
+      },
+      "wheelchair.svg": {
+        "name": "wheelchair.svg",
+        "path": "a11y/wheelchair.svg",
+        "size": "458 B",
+        "hash": "e3e390c22246e4f3668df0d601b7a521"
+      },
+      "assistive-listening-systems.svg": {
+        "name": "assistive-listening-systems.svg",
+        "path": "a11y/assistive-listening-systems.svg",
+        "size": "1.08 KB",
+        "hash": "93c72a35809ea2a088f047ca9290a4a2"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "american-sign-language-interpreting.svg",
+        "path": "a11y/american-sign-language-interpreting.svg",
+        "size": "1.16 KB",
+        "hash": "fb0dc030778005ddb456b61869330977"
+      },
+      {
+        "name": "audio-description.svg",
+        "path": "a11y/audio-description.svg",
+        "size": "831 B",
+        "hash": "be02f4c3d6138c1e64de6aaf07e95e61"
+      },
+      {
+        "name": "braille.svg",
+        "path": "a11y/braille.svg",
+        "size": "1.36 KB",
+        "hash": "740e6a16faeed1eac8dba5d4270d977b"
+      },
+      {
+        "name": "asl-interpreting.svg",
+        "path": "a11y/asl-interpreting.svg",
+        "size": "720 B",
+        "hash": "1d3667b22ee2f5c92f2604db767266eb"
+      },
+      {
+        "name": "wheelchair.svg",
+        "path": "a11y/wheelchair.svg",
+        "size": "458 B",
+        "hash": "e3e390c22246e4f3668df0d601b7a521"
+      },
+      {
+        "name": "assistive-listening-systems.svg",
+        "path": "a11y/assistive-listening-systems.svg",
+        "size": "1.08 KB",
+        "hash": "93c72a35809ea2a088f047ca9290a4a2"
+      }
+    ]
+  },
+  "files": {
+    "name": "files",
+    "path": "files",
+    "size": "12.92 KB",
+    "icons": {
+      "address-book.svg": {
+        "name": "address-book.svg",
+        "path": "files/address-book.svg",
+        "size": "569 B",
+        "hash": "e389672a02647fea0d9fb3f20c7e5cd3"
+      },
+      "attach.svg": {
+        "name": "attach.svg",
+        "path": "files/attach.svg",
+        "size": "452 B",
+        "hash": "a8e54694ebdce57ac89eb7790d2a97f1"
+      },
+      "address-card.svg": {
+        "name": "address-card.svg",
+        "path": "files/address-card.svg",
+        "size": "742 B",
+        "hash": "b45ceda624a46c9107dbed62eeb59b51"
+      },
+      "bookmark.svg": {
+        "name": "bookmark.svg",
+        "path": "files/bookmark.svg",
+        "size": "126 B",
+        "hash": "5d966e9993b5f8c234cfdfc1c1924d1f"
+      },
+      "box-1.svg": {
+        "name": "box-1.svg",
+        "path": "files/box-1.svg",
+        "size": "360 B",
+        "hash": "e5a9eeb21a7465d28d8899a32217f528"
+      },
+      "doc-inv.svg": {
+        "name": "doc-inv.svg",
+        "path": "files/doc-inv.svg",
+        "size": "239 B",
+        "hash": "a60770885930616b440cfc4a40cc739e"
+      },
+      "briefcase.svg": {
+        "name": "briefcase.svg",
+        "path": "files/briefcase.svg",
+        "size": "349 B",
+        "hash": "b2bed61353b89e6a38f0b3cb37ad4362"
+      },
+      "calendar.svg": {
+        "name": "calendar.svg",
+        "path": "files/calendar.svg",
+        "size": "458 B",
+        "hash": "e07634d9a773c7a0f6af763622c9b06b"
+      },
+      "doc-text-inv.svg": {
+        "name": "doc-text-inv.svg",
+        "path": "files/doc-text-inv.svg",
+        "size": "476 B",
+        "hash": "ada67b0ce16b12ee14dfe4faf8881f70"
+      },
+      "file-archive.svg": {
+        "name": "file-archive.svg",
+        "path": "files/file-archive.svg",
+        "size": "577 B",
+        "hash": "5454e0786a66eb675861933ea8f29001"
+      },
+      "file-audio.svg": {
+        "name": "file-audio.svg",
+        "path": "files/file-audio.svg",
+        "size": "663 B",
+        "hash": "739193df2a0c1040b5820c2c1054928f"
+      },
+      "file-code.svg": {
+        "name": "file-code.svg",
+        "path": "files/file-code.svg",
+        "size": "625 B",
+        "hash": "f26e4a2848ea6a0cc198b295abbbbaa6"
+      },
+      "file-excel.svg": {
+        "name": "file-excel.svg",
+        "path": "files/file-excel.svg",
+        "size": "523 B",
+        "hash": "465eb3b1545e730e8048e3ddc65f7eee"
+      },
+      "file-image.svg": {
+        "name": "file-image.svg",
+        "path": "files/file-image.svg",
+        "size": "410 B",
+        "hash": "36b30f517faa027391405d35f87c5584"
+      },
+      "file-powerpoint.svg": {
+        "name": "file-powerpoint.svg",
+        "path": "files/file-powerpoint.svg",
+        "size": "475 B",
+        "hash": "0f93823fdc2e3cb865c22ab03d067284"
+      },
+      "file-pdf.svg": {
+        "name": "file-pdf.svg",
+        "path": "files/file-pdf.svg",
+        "size": "838 B",
+        "hash": "3619ab253b06cd2f30c62c63cba27ac9"
+      },
+      "file-video.svg": {
+        "name": "file-video.svg",
+        "path": "files/file-video.svg",
+        "size": "486 B",
+        "hash": "47be7ca8daeb66e8309286b54e550478"
+      },
+      "file-word.svg": {
+        "name": "file-word.svg",
+        "path": "files/file-word.svg",
+        "size": "551 B",
+        "hash": "40fa44bbd496588eee7e8e6bfd68db6d"
+      },
+      "file.svg": {
+        "name": "file.svg",
+        "path": "files/file.svg",
+        "size": "505 B",
+        "hash": "959e2d6a2f2a984aa34cb66f7c46baec"
+      },
+      "folder-2.svg": {
+        "name": "folder-2.svg",
+        "path": "files/folder-2.svg",
+        "size": "488 B",
+        "hash": "82e0c62bceb7ac0f86b63d8343458cc2"
+      },
+      "folder-add.svg": {
+        "name": "folder-add.svg",
+        "path": "files/folder-add.svg",
+        "size": "591 B",
+        "hash": "2ebdfc04369666e4a727b1dac6f7b73e"
+      },
+      "folder-remove.svg": {
+        "name": "folder-remove.svg",
+        "path": "files/folder-remove.svg",
+        "size": "560 B",
+        "hash": "d51fc6e1289ececd5d02078a30de7f9a"
+      },
+      "folder-open.svg": {
+        "name": "folder-open.svg",
+        "path": "files/folder-open.svg",
+        "size": "344 B",
+        "hash": "69b06992ab2aec5a7d30494cb0f31d27"
+      },
+      "folder.svg": {
+        "name": "folder.svg",
+        "path": "files/folder.svg",
+        "size": "205 B",
+        "hash": "928791170055afc00dd134698df99260"
+      },
+      "pencil.svg": {
+        "name": "pencil.svg",
+        "path": "files/pencil.svg",
+        "size": "199 B",
+        "hash": "3ec7f0ac7e00bfbd1fb910caaa0b05fd"
+      },
+      "mail-alt.svg": {
+        "name": "mail-alt.svg",
+        "path": "files/mail-alt.svg",
+        "size": "441 B",
+        "hash": "92dee3886f3d025370ef1c994a4c9397"
+      },
+      "print.svg": {
+        "name": "print.svg",
+        "path": "files/print.svg",
+        "size": "672 B",
+        "hash": "44e8fc093d11755a52af1ab3bcb05c89"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "address-book.svg",
+        "path": "files/address-book.svg",
+        "size": "569 B",
+        "hash": "e389672a02647fea0d9fb3f20c7e5cd3"
+      },
+      {
+        "name": "attach.svg",
+        "path": "files/attach.svg",
+        "size": "452 B",
+        "hash": "a8e54694ebdce57ac89eb7790d2a97f1"
+      },
+      {
+        "name": "address-card.svg",
+        "path": "files/address-card.svg",
+        "size": "742 B",
+        "hash": "b45ceda624a46c9107dbed62eeb59b51"
+      },
+      {
+        "name": "bookmark.svg",
+        "path": "files/bookmark.svg",
+        "size": "126 B",
+        "hash": "5d966e9993b5f8c234cfdfc1c1924d1f"
+      },
+      {
+        "name": "box-1.svg",
+        "path": "files/box-1.svg",
+        "size": "360 B",
+        "hash": "e5a9eeb21a7465d28d8899a32217f528"
+      },
+      {
+        "name": "doc-inv.svg",
+        "path": "files/doc-inv.svg",
+        "size": "239 B",
+        "hash": "a60770885930616b440cfc4a40cc739e"
+      },
+      {
+        "name": "briefcase.svg",
+        "path": "files/briefcase.svg",
+        "size": "349 B",
+        "hash": "b2bed61353b89e6a38f0b3cb37ad4362"
+      },
+      {
+        "name": "calendar.svg",
+        "path": "files/calendar.svg",
+        "size": "458 B",
+        "hash": "e07634d9a773c7a0f6af763622c9b06b"
+      },
+      {
+        "name": "doc-text-inv.svg",
+        "path": "files/doc-text-inv.svg",
+        "size": "476 B",
+        "hash": "ada67b0ce16b12ee14dfe4faf8881f70"
+      },
+      {
+        "name": "file-archive.svg",
+        "path": "files/file-archive.svg",
+        "size": "577 B",
+        "hash": "5454e0786a66eb675861933ea8f29001"
+      },
+      {
+        "name": "file-audio.svg",
+        "path": "files/file-audio.svg",
+        "size": "663 B",
+        "hash": "739193df2a0c1040b5820c2c1054928f"
+      },
+      {
+        "name": "file-code.svg",
+        "path": "files/file-code.svg",
+        "size": "625 B",
+        "hash": "f26e4a2848ea6a0cc198b295abbbbaa6"
+      },
+      {
+        "name": "file-excel.svg",
+        "path": "files/file-excel.svg",
+        "size": "523 B",
+        "hash": "465eb3b1545e730e8048e3ddc65f7eee"
+      },
+      {
+        "name": "file-image.svg",
+        "path": "files/file-image.svg",
+        "size": "410 B",
+        "hash": "36b30f517faa027391405d35f87c5584"
+      },
+      {
+        "name": "file-powerpoint.svg",
+        "path": "files/file-powerpoint.svg",
+        "size": "475 B",
+        "hash": "0f93823fdc2e3cb865c22ab03d067284"
+      },
+      {
+        "name": "file-pdf.svg",
+        "path": "files/file-pdf.svg",
+        "size": "838 B",
+        "hash": "3619ab253b06cd2f30c62c63cba27ac9"
+      },
+      {
+        "name": "file-video.svg",
+        "path": "files/file-video.svg",
+        "size": "486 B",
+        "hash": "47be7ca8daeb66e8309286b54e550478"
+      },
+      {
+        "name": "file-word.svg",
+        "path": "files/file-word.svg",
+        "size": "551 B",
+        "hash": "40fa44bbd496588eee7e8e6bfd68db6d"
+      },
+      {
+        "name": "file.svg",
+        "path": "files/file.svg",
+        "size": "505 B",
+        "hash": "959e2d6a2f2a984aa34cb66f7c46baec"
+      },
+      {
+        "name": "folder-2.svg",
+        "path": "files/folder-2.svg",
+        "size": "488 B",
+        "hash": "82e0c62bceb7ac0f86b63d8343458cc2"
+      },
+      {
+        "name": "folder-add.svg",
+        "path": "files/folder-add.svg",
+        "size": "591 B",
+        "hash": "2ebdfc04369666e4a727b1dac6f7b73e"
+      },
+      {
+        "name": "folder-remove.svg",
+        "path": "files/folder-remove.svg",
+        "size": "560 B",
+        "hash": "d51fc6e1289ececd5d02078a30de7f9a"
+      },
+      {
+        "name": "folder-open.svg",
+        "path": "files/folder-open.svg",
+        "size": "344 B",
+        "hash": "69b06992ab2aec5a7d30494cb0f31d27"
+      },
+      {
+        "name": "folder.svg",
+        "path": "files/folder.svg",
+        "size": "205 B",
+        "hash": "928791170055afc00dd134698df99260"
+      },
+      {
+        "name": "pencil.svg",
+        "path": "files/pencil.svg",
+        "size": "199 B",
+        "hash": "3ec7f0ac7e00bfbd1fb910caaa0b05fd"
+      },
+      {
+        "name": "mail-alt.svg",
+        "path": "files/mail-alt.svg",
+        "size": "441 B",
+        "hash": "92dee3886f3d025370ef1c994a4c9397"
+      },
+      {
+        "name": "print.svg",
+        "path": "files/print.svg",
+        "size": "672 B",
+        "hash": "44e8fc093d11755a52af1ab3bcb05c89"
+      }
+    ]
+  },
+  "arrows": {
+    "name": "arrows",
+    "path": "arrows",
+    "size": "25.12 KB",
+    "icons": {
+      "angle-dobule-down.svg": {
+        "name": "angle-dobule-down.svg",
+        "path": "arrows/angle-dobule-down.svg",
+        "size": "255 B",
+        "hash": "13c17f48f0783241858d35b9e9ebe6c2"
+      },
+      "angle-dobule-left.svg": {
+        "name": "angle-dobule-left.svg",
+        "path": "arrows/angle-dobule-left.svg",
+        "size": "232 B",
+        "hash": "4280b3bf986cd21dd42f34b2eb11536d"
+      },
+      "angle-dobule-right.svg": {
+        "name": "angle-dobule-right.svg",
+        "path": "arrows/angle-dobule-right.svg",
+        "size": "231 B",
+        "hash": "0a60fb68198bab5227df8cf4794ef124"
+      },
+      "angle-dobule-up.svg": {
+        "name": "angle-dobule-up.svg",
+        "path": "arrows/angle-dobule-up.svg",
+        "size": "255 B",
+        "hash": "23cf2f94aea8af4cada60c18d2ab8a36"
+      },
+      "angle-down.svg": {
+        "name": "angle-down.svg",
+        "path": "arrows/angle-down.svg",
+        "size": "193 B",
+        "hash": "4f9a02840067c7f6018082f57246b18b"
+      },
+      "angle-left.svg": {
+        "name": "angle-left.svg",
+        "path": "arrows/angle-left.svg",
+        "size": "194 B",
+        "hash": "d5e242ba61c0a79b2619a0e17f51737f"
+      },
+      "angle-up.svg": {
+        "name": "angle-up.svg",
+        "path": "arrows/angle-up.svg",
+        "size": "195 B",
+        "hash": "23acfb5897faddc2558f42a48dfc7168"
+      },
+      "angle-right.svg": {
+        "name": "angle-right.svg",
+        "path": "arrows/angle-right.svg",
+        "size": "194 B",
+        "hash": "e202d48a991389666f4ca233ff8c3df3"
+      },
+      "arrow-combo.svg": {
+        "name": "arrow-combo.svg",
+        "path": "arrows/arrow-combo.svg",
+        "size": "123 B",
+        "hash": "9ad87d2811827572680c0a96856a3e03"
+      },
+      "arrow-down.svg": {
+        "name": "arrow-down.svg",
+        "path": "arrows/arrow-down.svg",
+        "size": "265 B",
+        "hash": "8559e11fa46f9061fe0ad418ac7797a8"
+      },
+      "arrow-expand.svg": {
+        "name": "arrow-expand.svg",
+        "path": "arrows/arrow-expand.svg",
+        "size": "384 B",
+        "hash": "994373f3935bdcbb387c95e939736ebe"
+      },
+      "arrow-left.svg": {
+        "name": "arrow-left.svg",
+        "path": "arrows/arrow-left.svg",
+        "size": "240 B",
+        "hash": "bc139b238baf6186a6e0c1fd31118712"
+      },
+      "arrow-move.svg": {
+        "name": "arrow-move.svg",
+        "path": "arrows/arrow-move.svg",
+        "size": "411 B",
+        "hash": "e9e7b1cc5cc754345f2f840761093107"
+      },
+      "arrow-h.svg": {
+        "name": "arrow-h.svg",
+        "path": "arrows/arrow-h.svg",
+        "size": "226 B",
+        "hash": "fbcd5745df11767d71e69f3609b778cd"
+      },
+      "arrow-resize.svg": {
+        "name": "arrow-resize.svg",
+        "path": "arrows/arrow-resize.svg",
+        "size": "244 B",
+        "hash": "16aebd3e8bdb3aa50cad6e6e9c4b94a8"
+      },
+      "arrow-return-right.svg": {
+        "name": "arrow-return-right.svg",
+        "path": "arrows/arrow-return-right.svg",
+        "size": "230 B",
+        "hash": "47743624abc55eabb029090d1e326bb9"
+      },
+      "arrow-right-l.svg": {
+        "name": "arrow-right-l.svg",
+        "path": "arrows/arrow-right-l.svg",
+        "size": "178 B",
+        "hash": "db57e8290827564bfffdb192b6009690"
+      },
+      "arrow-return-left.svg": {
+        "name": "arrow-return-left.svg",
+        "path": "arrows/arrow-return-left.svg",
+        "size": "232 B",
+        "hash": "adc5b2d56c6fb38025e9de4351e47dfa"
+      },
+      "arrow-right.svg": {
+        "name": "arrow-right.svg",
+        "path": "arrows/arrow-right.svg",
+        "size": "268 B",
+        "hash": "6ef0d55636d91f65c696fd79fd9df040"
+      },
+      "arrow-swap.svg": {
+        "name": "arrow-swap.svg",
+        "path": "arrows/arrow-swap.svg",
+        "size": "250 B",
+        "hash": "9624621c7cb7e32fe433c812ad4804ac"
+      },
+      "arrow-unsorted.svg": {
+        "name": "arrow-unsorted.svg",
+        "path": "arrows/arrow-unsorted.svg",
+        "size": "387 B",
+        "hash": "0c5814369da206621e4d2e72d6170d76"
+      },
+      "arrow-v.svg": {
+        "name": "arrow-v.svg",
+        "path": "arrows/arrow-v.svg",
+        "size": "194 B",
+        "hash": "ae5fe1d5f344139bb8d9d08b4f177768"
+      },
+      "arrows-ccw.svg": {
+        "name": "arrows-ccw.svg",
+        "path": "arrows/arrows-ccw.svg",
+        "size": "308 B",
+        "hash": "2d6d74fa06495aaa22beff5fa50a822c"
+      },
+      "arrows-cw.svg": {
+        "name": "arrows-cw.svg",
+        "path": "arrows/arrows-cw.svg",
+        "size": "525 B",
+        "hash": "51e247fd10ec513891b384bf3b07c72a"
+      },
+      "caret-down.svg": {
+        "name": "caret-down.svg",
+        "path": "arrows/caret-down.svg",
+        "size": "149 B",
+        "hash": "82166e3381cdedc3501fb303ddc791f4"
+      },
+      "caret-left.svg": {
+        "name": "caret-left.svg",
+        "path": "arrows/caret-left.svg",
+        "size": "150 B",
+        "hash": "65f84708a48af1c8986c616981cd24f3"
+      },
+      "caret-right.svg": {
+        "name": "caret-right.svg",
+        "path": "arrows/caret-right.svg",
+        "size": "150 B",
+        "hash": "0f787c19fcc8b379e29b9161ef1254ce"
+      },
+      "ccw.svg": {
+        "name": "ccw.svg",
+        "path": "arrows/ccw.svg",
+        "size": "266 B",
+        "hash": "c6732cb63063444aef468a3c63f674cd"
+      },
+      "caret-up.svg": {
+        "name": "caret-up.svg",
+        "path": "arrows/caret-up.svg",
+        "size": "151 B",
+        "hash": "ea9fa41c919eca6625fce5e7275f83ac"
+      },
+      "cw.svg": {
+        "name": "cw.svg",
+        "path": "arrows/cw.svg",
+        "size": "275 B",
+        "hash": "e1dfdb0de404c6defac5d54dfe293fd2"
+      },
+      "collapse.svg": {
+        "name": "collapse.svg",
+        "path": "arrows/collapse.svg",
+        "size": "685 B",
+        "hash": "2bbcebf769ace99da8043e8205a1e6be"
+      },
+      "down-bold.svg": {
+        "name": "down-bold.svg",
+        "path": "arrows/down-bold.svg",
+        "size": "129 B",
+        "hash": "3b5a07cc7a57f4cd8a3c13c8243af810"
+      },
+      "down-circled.svg": {
+        "name": "down-circled.svg",
+        "path": "arrows/down-circled.svg",
+        "size": "296 B",
+        "hash": "d3b610e97fd05984bf204a8aaf13b0c2"
+      },
+      "down-open.svg": {
+        "name": "down-open.svg",
+        "path": "arrows/down-open.svg",
+        "size": "205 B",
+        "hash": "9149db8f1feda0cf0c4f0dea14e84bfc"
+      },
+      "down-open-big.svg": {
+        "name": "down-open-big.svg",
+        "path": "arrows/down-open-big.svg",
+        "size": "182 B",
+        "hash": "d3b6df5c5b207e2943cc86643b0666a5"
+      },
+      "down-thin.svg": {
+        "name": "down-thin.svg",
+        "path": "arrows/down-thin.svg",
+        "size": "130 B",
+        "hash": "542529acd9f7c39b2bb0ce5f3a8e16ae"
+      },
+      "left-circled.svg": {
+        "name": "left-circled.svg",
+        "path": "arrows/left-circled.svg",
+        "size": "298 B",
+        "hash": "3491043821b3789d270d08998e844d1e"
+      },
+      "download-alt.svg": {
+        "name": "download-alt.svg",
+        "path": "arrows/download-alt.svg",
+        "size": "146 B",
+        "hash": "a5514494bb50efa8bf26a61745c3975b"
+      },
+      "left-bold.svg": {
+        "name": "left-bold.svg",
+        "path": "arrows/left-bold.svg",
+        "size": "121 B",
+        "hash": "cc7cfd8e1c9f8e2bd4b0333eb6d5525a"
+      },
+      "left-open-1.svg": {
+        "name": "left-open-1.svg",
+        "path": "arrows/left-open-1.svg",
+        "size": "221 B",
+        "hash": "cdc67c1988b6aec311911e0091ef75d8"
+      },
+      "left-open-big.svg": {
+        "name": "left-open-big.svg",
+        "path": "arrows/left-open-big.svg",
+        "size": "178 B",
+        "hash": "999e5b1dd6bbbc4a67cc8b77ab5af78b"
+      },
+      "left-thin.svg": {
+        "name": "left-thin.svg",
+        "path": "arrows/left-thin.svg",
+        "size": "129 B",
+        "hash": "6b42bfafb9d7e59a84d8dc1c4975288c"
+      },
+      "reload.svg": {
+        "name": "reload.svg",
+        "path": "arrows/reload.svg",
+        "size": "2.34 KB",
+        "hash": "d299976ccd45db7ed403d05f713fe823"
+      },
+      "recycle.svg": {
+        "name": "recycle.svg",
+        "path": "arrows/recycle.svg",
+        "size": "698 B",
+        "hash": "01ebc88076d7b540f669c6cd3b51ef2e"
+      },
+      "resize-full.svg": {
+        "name": "resize-full.svg",
+        "path": "arrows/resize-full.svg",
+        "size": "182 B",
+        "hash": "c46163ba55771e09635e84add9d74053"
+      },
+      "arrow-up-l.svg": {
+        "name": "arrow-up-l.svg",
+        "path": "arrows/arrow-up-l.svg",
+        "size": "185 B",
+        "hash": "fdde63746a312bf0a980a9ed7e577060"
+      },
+      "resize-small-1.svg": {
+        "name": "resize-small-1.svg",
+        "path": "arrows/resize-small-1.svg",
+        "size": "287 B",
+        "hash": "1473c44671e51f2e962b24265791b41d"
+      },
+      "resize-full-1.svg": {
+        "name": "resize-full-1.svg",
+        "path": "arrows/resize-full-1.svg",
+        "size": "289 B",
+        "hash": "86b9cd07e9fe7586944ce0d09770a2e8"
+      },
+      "resize-small.svg": {
+        "name": "resize-small.svg",
+        "path": "arrows/resize-small.svg",
+        "size": "182 B",
+        "hash": "c2cf7328670c2c8c0e91303c211377d8"
+      },
+      "right-bold.svg": {
+        "name": "right-bold.svg",
+        "path": "arrows/right-bold.svg",
+        "size": "129 B",
+        "hash": "1c889546d702de9251034322901ef8ab"
+      },
+      "right-circled.svg": {
+        "name": "right-circled.svg",
+        "path": "arrows/right-circled.svg",
+        "size": "302 B",
+        "hash": "15202eb4818064d31d47f03201954182"
+      },
+      "right-open-1.svg": {
+        "name": "right-open-1.svg",
+        "path": "arrows/right-open-1.svg",
+        "size": "214 B",
+        "hash": "b128a24776111741d4eef37d24824645"
+      },
+      "right-thin.svg": {
+        "name": "right-thin.svg",
+        "path": "arrows/right-thin.svg",
+        "size": "121 B",
+        "hash": "a7c0c12a1bc6a8503a2d70aa259a0f90"
+      },
+      "right-open-big.svg": {
+        "name": "right-open-big.svg",
+        "path": "arrows/right-open-big.svg",
+        "size": "186 B",
+        "hash": "5f6205f0dd42fa46a0824a06c2419000"
+      },
+      "sort-alt-down.svg": {
+        "name": "sort-alt-down.svg",
+        "path": "arrows/sort-alt-down.svg",
+        "size": "559 B",
+        "hash": "8953d2d11e61597278c0c533ecb5bf8f"
+      },
+      "sort-alt-up.svg": {
+        "name": "sort-alt-up.svg",
+        "path": "arrows/sort-alt-up.svg",
+        "size": "558 B",
+        "hash": "5cac8f41b4be422bde0715bbd0e65566"
+      },
+      "arrow-up.svg": {
+        "name": "arrow-up.svg",
+        "path": "arrows/arrow-up.svg",
+        "size": "270 B",
+        "hash": "7a73c569772be7c466f489bc397cd19f"
+      },
+      "sort-name-down.svg": {
+        "name": "sort-name-down.svg",
+        "path": "arrows/sort-name-down.svg",
+        "size": "491 B",
+        "hash": "51f21e9b09870b85fc95c17733a15401"
+      },
+      "sort-name-up.svg": {
+        "name": "sort-name-up.svg",
+        "path": "arrows/sort-name-up.svg",
+        "size": "494 B",
+        "hash": "d305f72d6cb61ea46c7bee74c6aebbd2"
+      },
+      "sort.svg": {
+        "name": "sort.svg",
+        "path": "arrows/sort.svg",
+        "size": "289 B",
+        "hash": "7a515f2e646604d24662ccc759481afe"
+      },
+      "sort-number-down.svg": {
+        "name": "sort-number-down.svg",
+        "path": "arrows/sort-number-down.svg",
+        "size": "577 B",
+        "hash": "2a85c9b3b26a559d15d77dca2194d19f"
+      },
+      "spinner-refresh.svg": {
+        "name": "spinner-refresh.svg",
+        "path": "arrows/spinner-refresh.svg",
+        "size": "535 B",
+        "hash": "de90dfa3216d3fb3b8c049de63d56bfb"
+      },
+      "sort-number-up.svg": {
+        "name": "sort-number-up.svg",
+        "path": "arrows/sort-number-up.svg",
+        "size": "576 B",
+        "hash": "007b6b5ef8a294f288fb33f627d5cf0b"
+      },
+      "to-end-2.svg": {
+        "name": "to-end-2.svg",
+        "path": "arrows/to-end-2.svg",
+        "size": "240 B",
+        "hash": "2bf496c0e3d5dcc986faece042a11229"
+      },
+      "to-start-2.svg": {
+        "name": "to-start-2.svg",
+        "path": "arrows/to-start-2.svg",
+        "size": "241 B",
+        "hash": "f9fb503bd6e676a5c482109fb56a3763"
+      },
+      "to-start.svg": {
+        "name": "to-start.svg",
+        "path": "arrows/to-start.svg",
+        "size": "237 B",
+        "hash": "35e4801c5c7f5b69a1d6ba71fe8beb0d"
+      },
+      "trending-down.svg": {
+        "name": "trending-down.svg",
+        "path": "arrows/trending-down.svg",
+        "size": "722 B",
+        "hash": "89ca060ecb9d2141737e670f80abb4d7"
+      },
+      "trending-up.svg": {
+        "name": "trending-up.svg",
+        "path": "arrows/trending-up.svg",
+        "size": "748 B",
+        "hash": "20f0bae3e4213861ad87d63d29f22076"
+      },
+      "two-left-arrows.svg": {
+        "name": "two-left-arrows.svg",
+        "path": "arrows/two-left-arrows.svg",
+        "size": "1.4 KB",
+        "hash": "0da3d5d7d0fe2f09d4ea963f420a8725"
+      },
+      "undo.svg": {
+        "name": "undo.svg",
+        "path": "arrows/undo.svg",
+        "size": "650 B",
+        "hash": "ec01b73e95259b7e44a5755bf872955f"
+      },
+      "up-circled.svg": {
+        "name": "up-circled.svg",
+        "path": "arrows/up-circled.svg",
+        "size": "319 B",
+        "hash": "22c9cf75d5c143153063644ea06c1fb5"
+      },
+      "up-open-big.svg": {
+        "name": "up-open-big.svg",
+        "path": "arrows/up-open-big.svg",
+        "size": "182 B",
+        "hash": "cd5e802606fd843a41f595583ba52c55"
+      },
+      "up-open.svg": {
+        "name": "up-open.svg",
+        "path": "arrows/up-open.svg",
+        "size": "201 B",
+        "hash": "7a056516dd2d51d9e09e7153bab9f10c"
+      },
+      "up-thin.svg": {
+        "name": "up-thin.svg",
+        "path": "arrows/up-thin.svg",
+        "size": "121 B",
+        "hash": "e6f083edf8c92802f55e7a1e346c8c52"
+      },
+      "up-bold.svg": {
+        "name": "up-bold.svg",
+        "path": "arrows/up-bold.svg",
+        "size": "121 B",
+        "hash": "75ba55357e31a87ca9d934a2702e60f1"
+      },
+      "switch.svg": {
+        "name": "switch.svg",
+        "path": "arrows/switch.svg",
+        "size": "166 B",
+        "hash": "f6233e1c15d11234798e79df58ff821c"
+      },
+      "to-end.svg": {
+        "name": "to-end.svg",
+        "path": "arrows/to-end.svg",
+        "size": "229 B",
+        "hash": "775c791eb9fd7e81a436d2864ec370d5"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "angle-dobule-down.svg",
+        "path": "arrows/angle-dobule-down.svg",
+        "size": "255 B",
+        "hash": "13c17f48f0783241858d35b9e9ebe6c2"
+      },
+      {
+        "name": "angle-dobule-left.svg",
+        "path": "arrows/angle-dobule-left.svg",
+        "size": "232 B",
+        "hash": "4280b3bf986cd21dd42f34b2eb11536d"
+      },
+      {
+        "name": "angle-dobule-right.svg",
+        "path": "arrows/angle-dobule-right.svg",
+        "size": "231 B",
+        "hash": "0a60fb68198bab5227df8cf4794ef124"
+      },
+      {
+        "name": "angle-dobule-up.svg",
+        "path": "arrows/angle-dobule-up.svg",
+        "size": "255 B",
+        "hash": "23cf2f94aea8af4cada60c18d2ab8a36"
+      },
+      {
+        "name": "angle-down.svg",
+        "path": "arrows/angle-down.svg",
+        "size": "193 B",
+        "hash": "4f9a02840067c7f6018082f57246b18b"
+      },
+      {
+        "name": "angle-left.svg",
+        "path": "arrows/angle-left.svg",
+        "size": "194 B",
+        "hash": "d5e242ba61c0a79b2619a0e17f51737f"
+      },
+      {
+        "name": "angle-up.svg",
+        "path": "arrows/angle-up.svg",
+        "size": "195 B",
+        "hash": "23acfb5897faddc2558f42a48dfc7168"
+      },
+      {
+        "name": "angle-right.svg",
+        "path": "arrows/angle-right.svg",
+        "size": "194 B",
+        "hash": "e202d48a991389666f4ca233ff8c3df3"
+      },
+      {
+        "name": "arrow-combo.svg",
+        "path": "arrows/arrow-combo.svg",
+        "size": "123 B",
+        "hash": "9ad87d2811827572680c0a96856a3e03"
+      },
+      {
+        "name": "arrow-down.svg",
+        "path": "arrows/arrow-down.svg",
+        "size": "265 B",
+        "hash": "8559e11fa46f9061fe0ad418ac7797a8"
+      },
+      {
+        "name": "arrow-expand.svg",
+        "path": "arrows/arrow-expand.svg",
+        "size": "384 B",
+        "hash": "994373f3935bdcbb387c95e939736ebe"
+      },
+      {
+        "name": "arrow-left.svg",
+        "path": "arrows/arrow-left.svg",
+        "size": "240 B",
+        "hash": "bc139b238baf6186a6e0c1fd31118712"
+      },
+      {
+        "name": "arrow-move.svg",
+        "path": "arrows/arrow-move.svg",
+        "size": "411 B",
+        "hash": "e9e7b1cc5cc754345f2f840761093107"
+      },
+      {
+        "name": "arrow-h.svg",
+        "path": "arrows/arrow-h.svg",
+        "size": "226 B",
+        "hash": "fbcd5745df11767d71e69f3609b778cd"
+      },
+      {
+        "name": "arrow-resize.svg",
+        "path": "arrows/arrow-resize.svg",
+        "size": "244 B",
+        "hash": "16aebd3e8bdb3aa50cad6e6e9c4b94a8"
+      },
+      {
+        "name": "arrow-return-right.svg",
+        "path": "arrows/arrow-return-right.svg",
+        "size": "230 B",
+        "hash": "47743624abc55eabb029090d1e326bb9"
+      },
+      {
+        "name": "arrow-right-l.svg",
+        "path": "arrows/arrow-right-l.svg",
+        "size": "178 B",
+        "hash": "db57e8290827564bfffdb192b6009690"
+      },
+      {
+        "name": "arrow-return-left.svg",
+        "path": "arrows/arrow-return-left.svg",
+        "size": "232 B",
+        "hash": "adc5b2d56c6fb38025e9de4351e47dfa"
+      },
+      {
+        "name": "arrow-right.svg",
+        "path": "arrows/arrow-right.svg",
+        "size": "268 B",
+        "hash": "6ef0d55636d91f65c696fd79fd9df040"
+      },
+      {
+        "name": "arrow-swap.svg",
+        "path": "arrows/arrow-swap.svg",
+        "size": "250 B",
+        "hash": "9624621c7cb7e32fe433c812ad4804ac"
+      },
+      {
+        "name": "arrow-unsorted.svg",
+        "path": "arrows/arrow-unsorted.svg",
+        "size": "387 B",
+        "hash": "0c5814369da206621e4d2e72d6170d76"
+      },
+      {
+        "name": "arrow-v.svg",
+        "path": "arrows/arrow-v.svg",
+        "size": "194 B",
+        "hash": "ae5fe1d5f344139bb8d9d08b4f177768"
+      },
+      {
+        "name": "arrows-ccw.svg",
+        "path": "arrows/arrows-ccw.svg",
+        "size": "308 B",
+        "hash": "2d6d74fa06495aaa22beff5fa50a822c"
+      },
+      {
+        "name": "arrows-cw.svg",
+        "path": "arrows/arrows-cw.svg",
+        "size": "525 B",
+        "hash": "51e247fd10ec513891b384bf3b07c72a"
+      },
+      {
+        "name": "caret-down.svg",
+        "path": "arrows/caret-down.svg",
+        "size": "149 B",
+        "hash": "82166e3381cdedc3501fb303ddc791f4"
+      },
+      {
+        "name": "caret-left.svg",
+        "path": "arrows/caret-left.svg",
+        "size": "150 B",
+        "hash": "65f84708a48af1c8986c616981cd24f3"
+      },
+      {
+        "name": "caret-right.svg",
+        "path": "arrows/caret-right.svg",
+        "size": "150 B",
+        "hash": "0f787c19fcc8b379e29b9161ef1254ce"
+      },
+      {
+        "name": "ccw.svg",
+        "path": "arrows/ccw.svg",
+        "size": "266 B",
+        "hash": "c6732cb63063444aef468a3c63f674cd"
+      },
+      {
+        "name": "caret-up.svg",
+        "path": "arrows/caret-up.svg",
+        "size": "151 B",
+        "hash": "ea9fa41c919eca6625fce5e7275f83ac"
+      },
+      {
+        "name": "cw.svg",
+        "path": "arrows/cw.svg",
+        "size": "275 B",
+        "hash": "e1dfdb0de404c6defac5d54dfe293fd2"
+      },
+      {
+        "name": "collapse.svg",
+        "path": "arrows/collapse.svg",
+        "size": "685 B",
+        "hash": "2bbcebf769ace99da8043e8205a1e6be"
+      },
+      {
+        "name": "down-bold.svg",
+        "path": "arrows/down-bold.svg",
+        "size": "129 B",
+        "hash": "3b5a07cc7a57f4cd8a3c13c8243af810"
+      },
+      {
+        "name": "down-circled.svg",
+        "path": "arrows/down-circled.svg",
+        "size": "296 B",
+        "hash": "d3b610e97fd05984bf204a8aaf13b0c2"
+      },
+      {
+        "name": "down-open.svg",
+        "path": "arrows/down-open.svg",
+        "size": "205 B",
+        "hash": "9149db8f1feda0cf0c4f0dea14e84bfc"
+      },
+      {
+        "name": "down-open-big.svg",
+        "path": "arrows/down-open-big.svg",
+        "size": "182 B",
+        "hash": "d3b6df5c5b207e2943cc86643b0666a5"
+      },
+      {
+        "name": "down-thin.svg",
+        "path": "arrows/down-thin.svg",
+        "size": "130 B",
+        "hash": "542529acd9f7c39b2bb0ce5f3a8e16ae"
+      },
+      {
+        "name": "left-circled.svg",
+        "path": "arrows/left-circled.svg",
+        "size": "298 B",
+        "hash": "3491043821b3789d270d08998e844d1e"
+      },
+      {
+        "name": "download-alt.svg",
+        "path": "arrows/download-alt.svg",
+        "size": "146 B",
+        "hash": "a5514494bb50efa8bf26a61745c3975b"
+      },
+      {
+        "name": "left-bold.svg",
+        "path": "arrows/left-bold.svg",
+        "size": "121 B",
+        "hash": "cc7cfd8e1c9f8e2bd4b0333eb6d5525a"
+      },
+      {
+        "name": "left-open-1.svg",
+        "path": "arrows/left-open-1.svg",
+        "size": "221 B",
+        "hash": "cdc67c1988b6aec311911e0091ef75d8"
+      },
+      {
+        "name": "left-open-big.svg",
+        "path": "arrows/left-open-big.svg",
+        "size": "178 B",
+        "hash": "999e5b1dd6bbbc4a67cc8b77ab5af78b"
+      },
+      {
+        "name": "left-thin.svg",
+        "path": "arrows/left-thin.svg",
+        "size": "129 B",
+        "hash": "6b42bfafb9d7e59a84d8dc1c4975288c"
+      },
+      {
+        "name": "reload.svg",
+        "path": "arrows/reload.svg",
+        "size": "2.34 KB",
+        "hash": "d299976ccd45db7ed403d05f713fe823"
+      },
+      {
+        "name": "recycle.svg",
+        "path": "arrows/recycle.svg",
+        "size": "698 B",
+        "hash": "01ebc88076d7b540f669c6cd3b51ef2e"
+      },
+      {
+        "name": "resize-full.svg",
+        "path": "arrows/resize-full.svg",
+        "size": "182 B",
+        "hash": "c46163ba55771e09635e84add9d74053"
+      },
+      {
+        "name": "arrow-up-l.svg",
+        "path": "arrows/arrow-up-l.svg",
+        "size": "185 B",
+        "hash": "fdde63746a312bf0a980a9ed7e577060"
+      },
+      {
+        "name": "resize-small-1.svg",
+        "path": "arrows/resize-small-1.svg",
+        "size": "287 B",
+        "hash": "1473c44671e51f2e962b24265791b41d"
+      },
+      {
+        "name": "resize-full-1.svg",
+        "path": "arrows/resize-full-1.svg",
+        "size": "289 B",
+        "hash": "86b9cd07e9fe7586944ce0d09770a2e8"
+      },
+      {
+        "name": "resize-small.svg",
+        "path": "arrows/resize-small.svg",
+        "size": "182 B",
+        "hash": "c2cf7328670c2c8c0e91303c211377d8"
+      },
+      {
+        "name": "right-bold.svg",
+        "path": "arrows/right-bold.svg",
+        "size": "129 B",
+        "hash": "1c889546d702de9251034322901ef8ab"
+      },
+      {
+        "name": "right-circled.svg",
+        "path": "arrows/right-circled.svg",
+        "size": "302 B",
+        "hash": "15202eb4818064d31d47f03201954182"
+      },
+      {
+        "name": "right-open-1.svg",
+        "path": "arrows/right-open-1.svg",
+        "size": "214 B",
+        "hash": "b128a24776111741d4eef37d24824645"
+      },
+      {
+        "name": "right-thin.svg",
+        "path": "arrows/right-thin.svg",
+        "size": "121 B",
+        "hash": "a7c0c12a1bc6a8503a2d70aa259a0f90"
+      },
+      {
+        "name": "right-open-big.svg",
+        "path": "arrows/right-open-big.svg",
+        "size": "186 B",
+        "hash": "5f6205f0dd42fa46a0824a06c2419000"
+      },
+      {
+        "name": "sort-alt-down.svg",
+        "path": "arrows/sort-alt-down.svg",
+        "size": "559 B",
+        "hash": "8953d2d11e61597278c0c533ecb5bf8f"
+      },
+      {
+        "name": "sort-alt-up.svg",
+        "path": "arrows/sort-alt-up.svg",
+        "size": "558 B",
+        "hash": "5cac8f41b4be422bde0715bbd0e65566"
+      },
+      {
+        "name": "arrow-up.svg",
+        "path": "arrows/arrow-up.svg",
+        "size": "270 B",
+        "hash": "7a73c569772be7c466f489bc397cd19f"
+      },
+      {
+        "name": "sort-name-down.svg",
+        "path": "arrows/sort-name-down.svg",
+        "size": "491 B",
+        "hash": "51f21e9b09870b85fc95c17733a15401"
+      },
+      {
+        "name": "sort-name-up.svg",
+        "path": "arrows/sort-name-up.svg",
+        "size": "494 B",
+        "hash": "d305f72d6cb61ea46c7bee74c6aebbd2"
+      },
+      {
+        "name": "sort.svg",
+        "path": "arrows/sort.svg",
+        "size": "289 B",
+        "hash": "7a515f2e646604d24662ccc759481afe"
+      },
+      {
+        "name": "sort-number-down.svg",
+        "path": "arrows/sort-number-down.svg",
+        "size": "577 B",
+        "hash": "2a85c9b3b26a559d15d77dca2194d19f"
+      },
+      {
+        "name": "spinner-refresh.svg",
+        "path": "arrows/spinner-refresh.svg",
+        "size": "535 B",
+        "hash": "de90dfa3216d3fb3b8c049de63d56bfb"
+      },
+      {
+        "name": "sort-number-up.svg",
+        "path": "arrows/sort-number-up.svg",
+        "size": "576 B",
+        "hash": "007b6b5ef8a294f288fb33f627d5cf0b"
+      },
+      {
+        "name": "to-end-2.svg",
+        "path": "arrows/to-end-2.svg",
+        "size": "240 B",
+        "hash": "2bf496c0e3d5dcc986faece042a11229"
+      },
+      {
+        "name": "to-start-2.svg",
+        "path": "arrows/to-start-2.svg",
+        "size": "241 B",
+        "hash": "f9fb503bd6e676a5c482109fb56a3763"
+      },
+      {
+        "name": "to-start.svg",
+        "path": "arrows/to-start.svg",
+        "size": "237 B",
+        "hash": "35e4801c5c7f5b69a1d6ba71fe8beb0d"
+      },
+      {
+        "name": "trending-down.svg",
+        "path": "arrows/trending-down.svg",
+        "size": "722 B",
+        "hash": "89ca060ecb9d2141737e670f80abb4d7"
+      },
+      {
+        "name": "trending-up.svg",
+        "path": "arrows/trending-up.svg",
+        "size": "748 B",
+        "hash": "20f0bae3e4213861ad87d63d29f22076"
+      },
+      {
+        "name": "two-left-arrows.svg",
+        "path": "arrows/two-left-arrows.svg",
+        "size": "1.4 KB",
+        "hash": "0da3d5d7d0fe2f09d4ea963f420a8725"
+      },
+      {
+        "name": "undo.svg",
+        "path": "arrows/undo.svg",
+        "size": "650 B",
+        "hash": "ec01b73e95259b7e44a5755bf872955f"
+      },
+      {
+        "name": "up-circled.svg",
+        "path": "arrows/up-circled.svg",
+        "size": "319 B",
+        "hash": "22c9cf75d5c143153063644ea06c1fb5"
+      },
+      {
+        "name": "up-open-big.svg",
+        "path": "arrows/up-open-big.svg",
+        "size": "182 B",
+        "hash": "cd5e802606fd843a41f595583ba52c55"
+      },
+      {
+        "name": "up-open.svg",
+        "path": "arrows/up-open.svg",
+        "size": "201 B",
+        "hash": "7a056516dd2d51d9e09e7153bab9f10c"
+      },
+      {
+        "name": "up-thin.svg",
+        "path": "arrows/up-thin.svg",
+        "size": "121 B",
+        "hash": "e6f083edf8c92802f55e7a1e346c8c52"
+      },
+      {
+        "name": "up-bold.svg",
+        "path": "arrows/up-bold.svg",
+        "size": "121 B",
+        "hash": "75ba55357e31a87ca9d934a2702e60f1"
+      },
+      {
+        "name": "switch.svg",
+        "path": "arrows/switch.svg",
+        "size": "166 B",
+        "hash": "f6233e1c15d11234798e79df58ff821c"
+      },
+      {
+        "name": "to-end.svg",
+        "path": "arrows/to-end.svg",
+        "size": "229 B",
+        "hash": "775c791eb9fd7e81a436d2864ec370d5"
+      }
+    ]
+  },
+  "games": {
+    "name": "games",
+    "path": "games",
+    "size": "19.92 KB",
+    "icons": {
+      "124-security.svg": {
+        "name": "124-security.svg",
+        "path": "games/124-security.svg",
+        "size": "1.65 KB",
+        "hash": "77642fa2cab9dc94dec4d26fa6b65e72"
+      },
+      "192-empty-heart.svg": {
+        "name": "192-empty-heart.svg",
+        "path": "games/192-empty-heart.svg",
+        "size": "1.49 KB",
+        "hash": "2dcbdb4c58c7db57b0f74862db9a45f5"
+      },
+      "194-heart.svg": {
+        "name": "194-heart.svg",
+        "path": "games/194-heart.svg",
+        "size": "1.14 KB",
+        "hash": "f72ba4f759cb10d53dea31004f0f550d"
+      },
+      "193-half-heart.svg": {
+        "name": "193-half-heart.svg",
+        "path": "games/193-half-heart.svg",
+        "size": "1.33 KB",
+        "hash": "40a17d8b9da121d142a8da8e9e436b82"
+      },
+      "211-compass.svg": {
+        "name": "211-compass.svg",
+        "path": "games/211-compass.svg",
+        "size": "4.68 KB",
+        "hash": "914b275af89428f4af8f46e179705621"
+      },
+      "chess-3525372.svg": {
+        "name": "chess-3525372.svg",
+        "path": "games/chess-3525372.svg",
+        "size": "1.53 KB",
+        "hash": "0028096899c874510f533b4a84df3956"
+      },
+      "clover.svg": {
+        "name": "clover.svg",
+        "path": "games/clover.svg",
+        "size": "604 B",
+        "hash": "b5cabe962876a719a2a928d2d619b11b"
+      },
+      "crown.svg": {
+        "name": "crown.svg",
+        "path": "games/crown.svg",
+        "size": "521 B",
+        "hash": "e7acba8d589c601a41481c71447f485b"
+      },
+      "diamond.svg": {
+        "name": "diamond.svg",
+        "path": "games/diamond.svg",
+        "size": "269 B",
+        "hash": "dc495ea56feb9a77217bb2e658d1f6c1"
+      },
+      "dominofour.svg": {
+        "name": "dominofour.svg",
+        "path": "games/dominofour.svg",
+        "size": "472 B",
+        "hash": "a13ccbbbb3d363708254514c1c344bf7"
+      },
+      "game-two.svg": {
+        "name": "game-two.svg",
+        "path": "games/game-two.svg",
+        "size": "662 B",
+        "hash": "55a5e2ac8867af69915f7dea58b0043f"
+      },
+      "fire.svg": {
+        "name": "fire.svg",
+        "path": "games/fire.svg",
+        "size": "1.44 KB",
+        "hash": "932c500c1552d190ce00209cad74630f"
+      },
+      "dominotwo.svg": {
+        "name": "dominotwo.svg",
+        "path": "games/dominotwo.svg",
+        "size": "348 B",
+        "hash": "3c538a48b2b5ea4be669c1fcce48a4c8"
+      },
+      "knight.svg": {
+        "name": "knight.svg",
+        "path": "games/knight.svg",
+        "size": "477 B",
+        "hash": "f9e6d054913d16b673aca2f1054a4fd8"
+      },
+      "gamepad.svg": {
+        "name": "gamepad.svg",
+        "path": "games/gamepad.svg",
+        "size": "508 B",
+        "hash": "09c477c814a61fd2aa37e8068755ef2b"
+      },
+      "oneup.svg": {
+        "name": "oneup.svg",
+        "path": "games/oneup.svg",
+        "size": "875 B",
+        "hash": "39e060181cf0766870c4b1111da1d761"
+      },
+      "soccer-ball.svg": {
+        "name": "soccer-ball.svg",
+        "path": "games/soccer-ball.svg",
+        "size": "480 B",
+        "hash": "ae9e3f5dfd8fa40e1bf9a68b7557ffee"
+      },
+      "trophy.svg": {
+        "name": "trophy.svg",
+        "path": "games/trophy.svg",
+        "size": "550 B",
+        "hash": "8ab9d4ad3de322b12164eba4e8b315ad"
+      },
+      "sword.svg": {
+        "name": "sword.svg",
+        "path": "games/sword.svg",
+        "size": "398 B",
+        "hash": "d829c35b49470d9abd4de0dc28347dd7"
+      },
+      "warmedal.svg": {
+        "name": "warmedal.svg",
+        "path": "games/warmedal.svg",
+        "size": "506 B",
+        "hash": "8c784927e086289263a99b36929392ae"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "124-security.svg",
+        "path": "games/124-security.svg",
+        "size": "1.65 KB",
+        "hash": "77642fa2cab9dc94dec4d26fa6b65e72"
+      },
+      {
+        "name": "192-empty-heart.svg",
+        "path": "games/192-empty-heart.svg",
+        "size": "1.49 KB",
+        "hash": "2dcbdb4c58c7db57b0f74862db9a45f5"
+      },
+      {
+        "name": "194-heart.svg",
+        "path": "games/194-heart.svg",
+        "size": "1.14 KB",
+        "hash": "f72ba4f759cb10d53dea31004f0f550d"
+      },
+      {
+        "name": "193-half-heart.svg",
+        "path": "games/193-half-heart.svg",
+        "size": "1.33 KB",
+        "hash": "40a17d8b9da121d142a8da8e9e436b82"
+      },
+      {
+        "name": "211-compass.svg",
+        "path": "games/211-compass.svg",
+        "size": "4.68 KB",
+        "hash": "914b275af89428f4af8f46e179705621"
+      },
+      {
+        "name": "chess-3525372.svg",
+        "path": "games/chess-3525372.svg",
+        "size": "1.53 KB",
+        "hash": "0028096899c874510f533b4a84df3956"
+      },
+      {
+        "name": "clover.svg",
+        "path": "games/clover.svg",
+        "size": "604 B",
+        "hash": "b5cabe962876a719a2a928d2d619b11b"
+      },
+      {
+        "name": "crown.svg",
+        "path": "games/crown.svg",
+        "size": "521 B",
+        "hash": "e7acba8d589c601a41481c71447f485b"
+      },
+      {
+        "name": "diamond.svg",
+        "path": "games/diamond.svg",
+        "size": "269 B",
+        "hash": "dc495ea56feb9a77217bb2e658d1f6c1"
+      },
+      {
+        "name": "dominofour.svg",
+        "path": "games/dominofour.svg",
+        "size": "472 B",
+        "hash": "a13ccbbbb3d363708254514c1c344bf7"
+      },
+      {
+        "name": "game-two.svg",
+        "path": "games/game-two.svg",
+        "size": "662 B",
+        "hash": "55a5e2ac8867af69915f7dea58b0043f"
+      },
+      {
+        "name": "fire.svg",
+        "path": "games/fire.svg",
+        "size": "1.44 KB",
+        "hash": "932c500c1552d190ce00209cad74630f"
+      },
+      {
+        "name": "dominotwo.svg",
+        "path": "games/dominotwo.svg",
+        "size": "348 B",
+        "hash": "3c538a48b2b5ea4be669c1fcce48a4c8"
+      },
+      {
+        "name": "knight.svg",
+        "path": "games/knight.svg",
+        "size": "477 B",
+        "hash": "f9e6d054913d16b673aca2f1054a4fd8"
+      },
+      {
+        "name": "gamepad.svg",
+        "path": "games/gamepad.svg",
+        "size": "508 B",
+        "hash": "09c477c814a61fd2aa37e8068755ef2b"
+      },
+      {
+        "name": "oneup.svg",
+        "path": "games/oneup.svg",
+        "size": "875 B",
+        "hash": "39e060181cf0766870c4b1111da1d761"
+      },
+      {
+        "name": "soccer-ball.svg",
+        "path": "games/soccer-ball.svg",
+        "size": "480 B",
+        "hash": "ae9e3f5dfd8fa40e1bf9a68b7557ffee"
+      },
+      {
+        "name": "trophy.svg",
+        "path": "games/trophy.svg",
+        "size": "550 B",
+        "hash": "8ab9d4ad3de322b12164eba4e8b315ad"
+      },
+      {
+        "name": "sword.svg",
+        "path": "games/sword.svg",
+        "size": "398 B",
+        "hash": "d829c35b49470d9abd4de0dc28347dd7"
+      },
+      {
+        "name": "warmedal.svg",
+        "path": "games/warmedal.svg",
+        "size": "506 B",
+        "hash": "8c784927e086289263a99b36929392ae"
+      }
+    ]
+  },
+  "finance": {
+    "name": "finance",
+    "path": "finance",
+    "size": "10.05 KB",
+    "icons": {
+      "143-dollar-bag.svg": {
+        "name": "143-dollar-bag.svg",
+        "path": "finance/143-dollar-bag.svg",
+        "size": "3.49 KB",
+        "hash": "7da4fc556665aeba825e042c18815e64"
+      },
+      "bank.svg": {
+        "name": "bank.svg",
+        "path": "finance/bank.svg",
+        "size": "332 B",
+        "hash": "6c7b4c5b9fc4eab2e6fe8ac5bdfa1044"
+      },
+      "barcode.svg": {
+        "name": "barcode.svg",
+        "path": "finance/barcode.svg",
+        "size": "362 B",
+        "hash": "2b89a450465ea8f96641c87ef7e03d7e"
+      },
+      "dollar.svg": {
+        "name": "dollar.svg",
+        "path": "finance/dollar.svg",
+        "size": "633 B",
+        "hash": "0fb2b953135ed7295ffbfc3dfd49741c"
+      },
+      "money.svg": {
+        "name": "money.svg",
+        "path": "finance/money.svg",
+        "size": "464 B",
+        "hash": "b938f60459e241d0fb3e510f1f8fa90f"
+      },
+      "basket.svg": {
+        "name": "basket.svg",
+        "path": "finance/basket.svg",
+        "size": "408 B",
+        "hash": "87aa8c44ef331a33c9c92bc3e9a17d7c"
+      },
+      "euro.svg": {
+        "name": "euro.svg",
+        "path": "finance/euro.svg",
+        "size": "592 B",
+        "hash": "b02c814b59335e5730deccbc76d07eb7"
+      },
+      "pound.svg": {
+        "name": "pound.svg",
+        "path": "finance/pound.svg",
+        "size": "409 B",
+        "hash": "f216c5a0afe5c92e9dca21cc1b3f1022"
+      },
+      "shekel.svg": {
+        "name": "shekel.svg",
+        "path": "finance/shekel.svg",
+        "size": "409 B",
+        "hash": "e1aec1c6f99585a229e7dcfe86a0b098"
+      },
+      "skype.svg": {
+        "name": "skype.svg",
+        "path": "finance/skype.svg",
+        "size": "1.03 KB",
+        "hash": "8eb5cb5a113d509405c7dc7c98dd5e37"
+      },
+      "rouble.svg": {
+        "name": "rouble.svg",
+        "path": "finance/rouble.svg",
+        "size": "390 B",
+        "hash": "b242bbd00771759bb6cbb5cb3d35cc4c"
+      },
+      "rupee.svg": {
+        "name": "rupee.svg",
+        "path": "finance/rupee.svg",
+        "size": "416 B",
+        "hash": "d128d950fb7c52b5ca1154263c565889"
+      },
+      "won.svg": {
+        "name": "won.svg",
+        "path": "finance/won.svg",
+        "size": "676 B",
+        "hash": "a5f366ada909baf0755755e5befee695"
+      },
+      "yen.svg": {
+        "name": "yen.svg",
+        "path": "finance/yen.svg",
+        "size": "439 B",
+        "hash": "38485fbe4d1f3aadc90ae4549dd08478"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "143-dollar-bag.svg",
+        "path": "finance/143-dollar-bag.svg",
+        "size": "3.49 KB",
+        "hash": "7da4fc556665aeba825e042c18815e64"
+      },
+      {
+        "name": "bank.svg",
+        "path": "finance/bank.svg",
+        "size": "332 B",
+        "hash": "6c7b4c5b9fc4eab2e6fe8ac5bdfa1044"
+      },
+      {
+        "name": "barcode.svg",
+        "path": "finance/barcode.svg",
+        "size": "362 B",
+        "hash": "2b89a450465ea8f96641c87ef7e03d7e"
+      },
+      {
+        "name": "dollar.svg",
+        "path": "finance/dollar.svg",
+        "size": "633 B",
+        "hash": "0fb2b953135ed7295ffbfc3dfd49741c"
+      },
+      {
+        "name": "money.svg",
+        "path": "finance/money.svg",
+        "size": "464 B",
+        "hash": "b938f60459e241d0fb3e510f1f8fa90f"
+      },
+      {
+        "name": "basket.svg",
+        "path": "finance/basket.svg",
+        "size": "408 B",
+        "hash": "87aa8c44ef331a33c9c92bc3e9a17d7c"
+      },
+      {
+        "name": "euro.svg",
+        "path": "finance/euro.svg",
+        "size": "592 B",
+        "hash": "b02c814b59335e5730deccbc76d07eb7"
+      },
+      {
+        "name": "pound.svg",
+        "path": "finance/pound.svg",
+        "size": "409 B",
+        "hash": "f216c5a0afe5c92e9dca21cc1b3f1022"
+      },
+      {
+        "name": "shekel.svg",
+        "path": "finance/shekel.svg",
+        "size": "409 B",
+        "hash": "e1aec1c6f99585a229e7dcfe86a0b098"
+      },
+      {
+        "name": "skype.svg",
+        "path": "finance/skype.svg",
+        "size": "1.03 KB",
+        "hash": "8eb5cb5a113d509405c7dc7c98dd5e37"
+      },
+      {
+        "name": "rouble.svg",
+        "path": "finance/rouble.svg",
+        "size": "390 B",
+        "hash": "b242bbd00771759bb6cbb5cb3d35cc4c"
+      },
+      {
+        "name": "rupee.svg",
+        "path": "finance/rupee.svg",
+        "size": "416 B",
+        "hash": "d128d950fb7c52b5ca1154263c565889"
+      },
+      {
+        "name": "won.svg",
+        "path": "finance/won.svg",
+        "size": "676 B",
+        "hash": "a5f366ada909baf0755755e5befee695"
+      },
+      {
+        "name": "yen.svg",
+        "path": "finance/yen.svg",
+        "size": "439 B",
+        "hash": "38485fbe4d1f3aadc90ae4549dd08478"
+      }
+    ]
+  },
+  "shapes": {
+    "name": "shapes",
+    "path": "shapes",
+    "size": "6.72 KB",
+    "icons": {
+      "box-cross.svg": {
+        "name": "box-cross.svg",
+        "path": "shapes/box-cross.svg",
+        "size": "385 B",
+        "hash": "101ca285d1a4f10d04185fa9f5657402"
+      },
+      "box-minus.svg": {
+        "name": "box-minus.svg",
+        "path": "shapes/box-minus.svg",
+        "size": "321 B",
+        "hash": "a320315ef142080d86a45d8ca6a1e242"
+      },
+      "box-full.svg": {
+        "name": "box-full.svg",
+        "path": "shapes/box-full.svg",
+        "size": "279 B",
+        "hash": "c94bfe1ed995b4ad62b53fb111097246"
+      },
+      "box-plus.svg": {
+        "name": "box-plus.svg",
+        "path": "shapes/box-plus.svg",
+        "size": "384 B",
+        "hash": "9a65c9d52e93dc205a65c33982ffd68e"
+      },
+      "box.svg": {
+        "name": "box.svg",
+        "path": "shapes/box.svg",
+        "size": "315 B",
+        "hash": "9a607d46a46da942eb9c09a96b620ba1"
+      },
+      "box-tick.svg": {
+        "name": "box-tick.svg",
+        "path": "shapes/box-tick.svg",
+        "size": "336 B",
+        "hash": "e467577e5232ab957789b59b08367268"
+      },
+      "bullseye.svg": {
+        "name": "bullseye.svg",
+        "path": "shapes/bullseye.svg",
+        "size": "528 B",
+        "hash": "f1386c625ae9bbdee6fc8e752075966c"
+      },
+      "check-empty.svg": {
+        "name": "check-empty.svg",
+        "path": "shapes/check-empty.svg",
+        "size": "283 B",
+        "hash": "7f01c272c39d71dad1ce6a63c8de2e6f"
+      },
+      "cancel.svg": {
+        "name": "cancel.svg",
+        "path": "shapes/cancel.svg",
+        "size": "397 B",
+        "hash": "34ef8c9150b5b7596af4e9ddf8d8e271"
+      },
+      "circle-empty.svg": {
+        "name": "circle-empty.svg",
+        "path": "shapes/circle-empty.svg",
+        "size": "303 B",
+        "hash": "c486142f77f4060bf6530774e341a1fe"
+      },
+      "check.svg": {
+        "name": "check.svg",
+        "path": "shapes/check.svg",
+        "size": "496 B",
+        "hash": "275e4327dddd20c2f3d5c4f8653e8b98"
+      },
+      "dot-circled.svg": {
+        "name": "dot-circled.svg",
+        "path": "shapes/dot-circled.svg",
+        "size": "375 B",
+        "hash": "12d4ecc9fbe49c4a43aade31e72c1dda"
+      },
+      "circle.svg": {
+        "name": "circle.svg",
+        "path": "shapes/circle.svg",
+        "size": "199 B",
+        "hash": "32c893eca392601748c0a3bb3f798a76"
+      },
+      "infinity.svg": {
+        "name": "infinity.svg",
+        "path": "shapes/infinity.svg",
+        "size": "871 B",
+        "hash": "2887f27b0564ad6fb401835d4de5b85b"
+      },
+      "divide.svg": {
+        "name": "divide.svg",
+        "path": "shapes/divide.svg",
+        "size": "289 B",
+        "hash": "19ed358b10eae9d770ea45c8f9133e8b"
+      },
+      "minus.svg": {
+        "name": "minus.svg",
+        "path": "shapes/minus.svg",
+        "size": "109 B",
+        "hash": "867901b9700e969f1adb0deda8f0180e"
+      },
+      "multiply.svg": {
+        "name": "multiply.svg",
+        "path": "shapes/multiply.svg",
+        "size": "180 B",
+        "hash": "5e6d804ae061e9b4433765f85f2ac1b9"
+      },
+      "plus.svg": {
+        "name": "plus.svg",
+        "path": "shapes/plus.svg",
+        "size": "140 B",
+        "hash": "0a9a812e458f076028315f403d9c95ef"
+      },
+      "ok.svg": {
+        "name": "ok.svg",
+        "path": "shapes/ok.svg",
+        "size": "150 B",
+        "hash": "77de142907036e1af3e16c40f8c2da51"
+      },
+      "pass.svg": {
+        "name": "pass.svg",
+        "path": "shapes/pass.svg",
+        "size": "375 B",
+        "hash": "b79a5948ff541f0615ff2c2293c71da8"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "box-cross.svg",
+        "path": "shapes/box-cross.svg",
+        "size": "385 B",
+        "hash": "101ca285d1a4f10d04185fa9f5657402"
+      },
+      {
+        "name": "box-minus.svg",
+        "path": "shapes/box-minus.svg",
+        "size": "321 B",
+        "hash": "a320315ef142080d86a45d8ca6a1e242"
+      },
+      {
+        "name": "box-full.svg",
+        "path": "shapes/box-full.svg",
+        "size": "279 B",
+        "hash": "c94bfe1ed995b4ad62b53fb111097246"
+      },
+      {
+        "name": "box-plus.svg",
+        "path": "shapes/box-plus.svg",
+        "size": "384 B",
+        "hash": "9a65c9d52e93dc205a65c33982ffd68e"
+      },
+      {
+        "name": "box.svg",
+        "path": "shapes/box.svg",
+        "size": "315 B",
+        "hash": "9a607d46a46da942eb9c09a96b620ba1"
+      },
+      {
+        "name": "box-tick.svg",
+        "path": "shapes/box-tick.svg",
+        "size": "336 B",
+        "hash": "e467577e5232ab957789b59b08367268"
+      },
+      {
+        "name": "bullseye.svg",
+        "path": "shapes/bullseye.svg",
+        "size": "528 B",
+        "hash": "f1386c625ae9bbdee6fc8e752075966c"
+      },
+      {
+        "name": "check-empty.svg",
+        "path": "shapes/check-empty.svg",
+        "size": "283 B",
+        "hash": "7f01c272c39d71dad1ce6a63c8de2e6f"
+      },
+      {
+        "name": "cancel.svg",
+        "path": "shapes/cancel.svg",
+        "size": "397 B",
+        "hash": "34ef8c9150b5b7596af4e9ddf8d8e271"
+      },
+      {
+        "name": "circle-empty.svg",
+        "path": "shapes/circle-empty.svg",
+        "size": "303 B",
+        "hash": "c486142f77f4060bf6530774e341a1fe"
+      },
+      {
+        "name": "check.svg",
+        "path": "shapes/check.svg",
+        "size": "496 B",
+        "hash": "275e4327dddd20c2f3d5c4f8653e8b98"
+      },
+      {
+        "name": "dot-circled.svg",
+        "path": "shapes/dot-circled.svg",
+        "size": "375 B",
+        "hash": "12d4ecc9fbe49c4a43aade31e72c1dda"
+      },
+      {
+        "name": "circle.svg",
+        "path": "shapes/circle.svg",
+        "size": "199 B",
+        "hash": "32c893eca392601748c0a3bb3f798a76"
+      },
+      {
+        "name": "infinity.svg",
+        "path": "shapes/infinity.svg",
+        "size": "871 B",
+        "hash": "2887f27b0564ad6fb401835d4de5b85b"
+      },
+      {
+        "name": "divide.svg",
+        "path": "shapes/divide.svg",
+        "size": "289 B",
+        "hash": "19ed358b10eae9d770ea45c8f9133e8b"
+      },
+      {
+        "name": "minus.svg",
+        "path": "shapes/minus.svg",
+        "size": "109 B",
+        "hash": "867901b9700e969f1adb0deda8f0180e"
+      },
+      {
+        "name": "multiply.svg",
+        "path": "shapes/multiply.svg",
+        "size": "180 B",
+        "hash": "5e6d804ae061e9b4433765f85f2ac1b9"
+      },
+      {
+        "name": "plus.svg",
+        "path": "shapes/plus.svg",
+        "size": "140 B",
+        "hash": "0a9a812e458f076028315f403d9c95ef"
+      },
+      {
+        "name": "ok.svg",
+        "path": "shapes/ok.svg",
+        "size": "150 B",
+        "hash": "77de142907036e1af3e16c40f8c2da51"
+      },
+      {
+        "name": "pass.svg",
+        "path": "shapes/pass.svg",
+        "size": "375 B",
+        "hash": "b79a5948ff541f0615ff2c2293c71da8"
+      }
+    ]
+  },
+  "media": {
+    "name": "media",
+    "path": "media",
+    "size": "15.03 KB",
+    "icons": {
+      "286-music-note.svg": {
+        "name": "286-music-note.svg",
+        "path": "media/286-music-note.svg",
+        "size": "1.43 KB",
+        "hash": "42d56bf66eb24b5761c989c2309126c9"
+      },
+      "captions.svg": {
+        "name": "captions.svg",
+        "path": "media/captions.svg",
+        "size": "809 B",
+        "hash": "741af9b12cf1c79dc8a8df00358f6440"
+      },
+      "acoustic.svg": {
+        "name": "acoustic.svg",
+        "path": "media/acoustic.svg",
+        "size": "601 B",
+        "hash": "17e973d2d69083e19badc914a458ddc0"
+      },
+      "clock.svg": {
+        "name": "clock.svg",
+        "path": "media/clock.svg",
+        "size": "349 B",
+        "hash": "b65b8f9fd265f3be439cd84298f3b2ff"
+      },
+      "eject-alt.svg": {
+        "name": "eject-alt.svg",
+        "path": "media/eject-alt.svg",
+        "size": "257 B",
+        "hash": "61f4c0be95a093743ee154de64c90940"
+      },
+      "expand.svg": {
+        "name": "expand.svg",
+        "path": "media/expand.svg",
+        "size": "351 B",
+        "hash": "33de64fb9ef8b843b8dcc79cb1bd5798"
+      },
+      "fast-forward-1.svg": {
+        "name": "fast-forward-1.svg",
+        "path": "media/fast-forward-1.svg",
+        "size": "300 B",
+        "hash": "31be22d7aba569c53fc52104345298c3"
+      },
+      "fast-backward-1.svg": {
+        "name": "fast-backward-1.svg",
+        "path": "media/fast-backward-1.svg",
+        "size": "297 B",
+        "hash": "f2bcdfa1a1f1020283aa3eb91dbef81b"
+      },
+      "fast-backward.svg": {
+        "name": "fast-backward.svg",
+        "path": "media/fast-backward.svg",
+        "size": "253 B",
+        "hash": "15ea6596ec7e9b7980b3807d4f7776aa"
+      },
+      "flash.svg": {
+        "name": "flash.svg",
+        "path": "media/flash.svg",
+        "size": "283 B",
+        "hash": "6476a22a2c00db1eb414b583f772f233"
+      },
+      "hd.svg": {
+        "name": "hd.svg",
+        "path": "media/hd.svg",
+        "size": "468 B",
+        "hash": "fbdd188075c870ff0d9adb1dedd9f6e7"
+      },
+      "fast-forward.svg": {
+        "name": "fast-forward.svg",
+        "path": "media/fast-forward.svg",
+        "size": "233 B",
+        "hash": "66289a265efa5025384001a5568b2dea"
+      },
+      "image.svg": {
+        "name": "image.svg",
+        "path": "media/image.svg",
+        "size": "475 B",
+        "hash": "b5a4eaf3c8efd1b3c024a012f50e7eba"
+      },
+      "loop.svg": {
+        "name": "loop.svg",
+        "path": "media/loop.svg",
+        "size": "233 B",
+        "hash": "6be448004b475c39f26ed917e0a790c2"
+      },
+      "media-record.svg": {
+        "name": "media-record.svg",
+        "path": "media/media-record.svg",
+        "size": "395 B",
+        "hash": "5ca550a7e66b2a348bc72d1cdb28eb63"
+      },
+      "media-stop.svg": {
+        "name": "media-stop.svg",
+        "path": "media/media-stop.svg",
+        "size": "210 B",
+        "hash": "41766cb2d8a75b329272236b030446d4"
+      },
+      "microphone.svg": {
+        "name": "microphone.svg",
+        "path": "media/microphone.svg",
+        "size": "458 B",
+        "hash": "b896b87bc67598b14fbe1d4f055e62af"
+      },
+      "music-rhythm.svg": {
+        "name": "music-rhythm.svg",
+        "path": "media/music-rhythm.svg",
+        "size": "2.08 KB",
+        "hash": "f7fdad677732fd817b86c9778897d928"
+      },
+      "pause-2.svg": {
+        "name": "pause-2.svg",
+        "path": "media/pause-2.svg",
+        "size": "277 B",
+        "hash": "e6f785a2fa4b52bfb8f2d4d79a9fdabb"
+      },
+      "music.svg": {
+        "name": "music.svg",
+        "path": "media/music.svg",
+        "size": "304 B",
+        "hash": "c6e08c97ae5854257e24cdfad764d370"
+      },
+      "record.svg": {
+        "name": "record.svg",
+        "path": "media/record.svg",
+        "size": "175 B",
+        "hash": "0a6c0e83485885a948b9e9e567bf34e0"
+      },
+      "note.svg": {
+        "name": "note.svg",
+        "path": "media/note.svg",
+        "size": "254 B",
+        "hash": "72f3ddcfb644cc7be16a1029887b0d08"
+      },
+      "podcast-1.svg": {
+        "name": "podcast-1.svg",
+        "path": "media/podcast-1.svg",
+        "size": "819 B",
+        "hash": "aecbe081299ec06e0542764a358befa4"
+      },
+      "play-2.svg": {
+        "name": "play-2.svg",
+        "path": "media/play-2.svg",
+        "size": "179 B",
+        "hash": "0a57626d83837a0312d43f7cc74cd38d"
+      },
+      "shuffle.svg": {
+        "name": "shuffle.svg",
+        "path": "media/shuffle.svg",
+        "size": "422 B",
+        "hash": "a291576285dc66ffaf2fc359f21d2277"
+      },
+      "video.svg": {
+        "name": "video.svg",
+        "path": "media/video.svg",
+        "size": "1.12 KB",
+        "hash": "3e90f6a1a23a4631c4bec1bba2cdf947"
+      },
+      "subtitles.svg": {
+        "name": "subtitles.svg",
+        "path": "media/subtitles.svg",
+        "size": "450 B",
+        "hash": "ffe61dbd0ff5af98aa64bf585373eb09"
+      },
+      "videocam.svg": {
+        "name": "videocam.svg",
+        "path": "media/videocam.svg",
+        "size": "276 B",
+        "hash": "0fe205cdc286d106b49f2206c4eb8e6e"
+      },
+      "volume-off.svg": {
+        "name": "volume-off.svg",
+        "path": "media/volume-off.svg",
+        "size": "314 B",
+        "hash": "202da692a105c4df277683ba0c6b21a6"
+      },
+      "volume-down.svg": {
+        "name": "volume-down.svg",
+        "path": "media/volume-down.svg",
+        "size": "194 B",
+        "hash": "c36988fe5dee7ea8a84d431d96a26ca6"
+      },
+      "stop-2.svg": {
+        "name": "stop-2.svg",
+        "path": "media/stop-2.svg",
+        "size": "183 B",
+        "hash": "d1a92dba43633d081148487fdbb9899b"
+      },
+      "volume-up.svg": {
+        "name": "volume-up.svg",
+        "path": "media/volume-up.svg",
+        "size": "322 B",
+        "hash": "357eb8fb90b365493a7384eb0ef53ce5"
+      },
+      "volume.svg": {
+        "name": "volume.svg",
+        "path": "media/volume.svg",
+        "size": "252 B",
+        "hash": "21e2c2429cf44bbd0389a2403830ff72"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "286-music-note.svg",
+        "path": "media/286-music-note.svg",
+        "size": "1.43 KB",
+        "hash": "42d56bf66eb24b5761c989c2309126c9"
+      },
+      {
+        "name": "captions.svg",
+        "path": "media/captions.svg",
+        "size": "809 B",
+        "hash": "741af9b12cf1c79dc8a8df00358f6440"
+      },
+      {
+        "name": "acoustic.svg",
+        "path": "media/acoustic.svg",
+        "size": "601 B",
+        "hash": "17e973d2d69083e19badc914a458ddc0"
+      },
+      {
+        "name": "clock.svg",
+        "path": "media/clock.svg",
+        "size": "349 B",
+        "hash": "b65b8f9fd265f3be439cd84298f3b2ff"
+      },
+      {
+        "name": "eject-alt.svg",
+        "path": "media/eject-alt.svg",
+        "size": "257 B",
+        "hash": "61f4c0be95a093743ee154de64c90940"
+      },
+      {
+        "name": "expand.svg",
+        "path": "media/expand.svg",
+        "size": "351 B",
+        "hash": "33de64fb9ef8b843b8dcc79cb1bd5798"
+      },
+      {
+        "name": "fast-forward-1.svg",
+        "path": "media/fast-forward-1.svg",
+        "size": "300 B",
+        "hash": "31be22d7aba569c53fc52104345298c3"
+      },
+      {
+        "name": "fast-backward-1.svg",
+        "path": "media/fast-backward-1.svg",
+        "size": "297 B",
+        "hash": "f2bcdfa1a1f1020283aa3eb91dbef81b"
+      },
+      {
+        "name": "fast-backward.svg",
+        "path": "media/fast-backward.svg",
+        "size": "253 B",
+        "hash": "15ea6596ec7e9b7980b3807d4f7776aa"
+      },
+      {
+        "name": "flash.svg",
+        "path": "media/flash.svg",
+        "size": "283 B",
+        "hash": "6476a22a2c00db1eb414b583f772f233"
+      },
+      {
+        "name": "hd.svg",
+        "path": "media/hd.svg",
+        "size": "468 B",
+        "hash": "fbdd188075c870ff0d9adb1dedd9f6e7"
+      },
+      {
+        "name": "fast-forward.svg",
+        "path": "media/fast-forward.svg",
+        "size": "233 B",
+        "hash": "66289a265efa5025384001a5568b2dea"
+      },
+      {
+        "name": "image.svg",
+        "path": "media/image.svg",
+        "size": "475 B",
+        "hash": "b5a4eaf3c8efd1b3c024a012f50e7eba"
+      },
+      {
+        "name": "loop.svg",
+        "path": "media/loop.svg",
+        "size": "233 B",
+        "hash": "6be448004b475c39f26ed917e0a790c2"
+      },
+      {
+        "name": "media-record.svg",
+        "path": "media/media-record.svg",
+        "size": "395 B",
+        "hash": "5ca550a7e66b2a348bc72d1cdb28eb63"
+      },
+      {
+        "name": "media-stop.svg",
+        "path": "media/media-stop.svg",
+        "size": "210 B",
+        "hash": "41766cb2d8a75b329272236b030446d4"
+      },
+      {
+        "name": "microphone.svg",
+        "path": "media/microphone.svg",
+        "size": "458 B",
+        "hash": "b896b87bc67598b14fbe1d4f055e62af"
+      },
+      {
+        "name": "music-rhythm.svg",
+        "path": "media/music-rhythm.svg",
+        "size": "2.08 KB",
+        "hash": "f7fdad677732fd817b86c9778897d928"
+      },
+      {
+        "name": "pause-2.svg",
+        "path": "media/pause-2.svg",
+        "size": "277 B",
+        "hash": "e6f785a2fa4b52bfb8f2d4d79a9fdabb"
+      },
+      {
+        "name": "music.svg",
+        "path": "media/music.svg",
+        "size": "304 B",
+        "hash": "c6e08c97ae5854257e24cdfad764d370"
+      },
+      {
+        "name": "record.svg",
+        "path": "media/record.svg",
+        "size": "175 B",
+        "hash": "0a6c0e83485885a948b9e9e567bf34e0"
+      },
+      {
+        "name": "note.svg",
+        "path": "media/note.svg",
+        "size": "254 B",
+        "hash": "72f3ddcfb644cc7be16a1029887b0d08"
+      },
+      {
+        "name": "podcast-1.svg",
+        "path": "media/podcast-1.svg",
+        "size": "819 B",
+        "hash": "aecbe081299ec06e0542764a358befa4"
+      },
+      {
+        "name": "play-2.svg",
+        "path": "media/play-2.svg",
+        "size": "179 B",
+        "hash": "0a57626d83837a0312d43f7cc74cd38d"
+      },
+      {
+        "name": "shuffle.svg",
+        "path": "media/shuffle.svg",
+        "size": "422 B",
+        "hash": "a291576285dc66ffaf2fc359f21d2277"
+      },
+      {
+        "name": "video.svg",
+        "path": "media/video.svg",
+        "size": "1.12 KB",
+        "hash": "3e90f6a1a23a4631c4bec1bba2cdf947"
+      },
+      {
+        "name": "subtitles.svg",
+        "path": "media/subtitles.svg",
+        "size": "450 B",
+        "hash": "ffe61dbd0ff5af98aa64bf585373eb09"
+      },
+      {
+        "name": "videocam.svg",
+        "path": "media/videocam.svg",
+        "size": "276 B",
+        "hash": "0fe205cdc286d106b49f2206c4eb8e6e"
+      },
+      {
+        "name": "volume-off.svg",
+        "path": "media/volume-off.svg",
+        "size": "314 B",
+        "hash": "202da692a105c4df277683ba0c6b21a6"
+      },
+      {
+        "name": "volume-down.svg",
+        "path": "media/volume-down.svg",
+        "size": "194 B",
+        "hash": "c36988fe5dee7ea8a84d431d96a26ca6"
+      },
+      {
+        "name": "stop-2.svg",
+        "path": "media/stop-2.svg",
+        "size": "183 B",
+        "hash": "d1a92dba43633d081148487fdbb9899b"
+      },
+      {
+        "name": "volume-up.svg",
+        "path": "media/volume-up.svg",
+        "size": "322 B",
+        "hash": "357eb8fb90b365493a7384eb0ef53ce5"
+      },
+      {
+        "name": "volume.svg",
+        "path": "media/volume.svg",
+        "size": "252 B",
+        "hash": "21e2c2429cf44bbd0389a2403830ff72"
+      }
+    ]
+  },
+  "scary": {
+    "name": "scary",
+    "path": "scary",
+    "size": "15.92 KB",
+    "icons": {
+      "bones.svg": {
+        "name": "bones.svg",
+        "path": "scary/bones.svg",
+        "size": "1.55 KB",
+        "hash": "3f787b7aa11beee57b7303ac0a50d1ee"
+      },
+      "231-bone.svg": {
+        "name": "231-bone.svg",
+        "path": "scary/231-bone.svg",
+        "size": "1.28 KB",
+        "hash": "95dc5ecc2c46351de59c48cc0f7f3d71"
+      },
+      "ghost-1531959.svg": {
+        "name": "ghost-1531959.svg",
+        "path": "scary/ghost-1531959.svg",
+        "size": "1.46 KB",
+        "hash": "ea06c4c9622f0cc54a7808ee6e12d78d"
+      },
+      "gravethree.svg": {
+        "name": "gravethree.svg",
+        "path": "scary/gravethree.svg",
+        "size": "203 B",
+        "hash": "8be2c8ca7d3432904cbda4ae76fd8da5"
+      },
+      "jason.svg": {
+        "name": "jason.svg",
+        "path": "scary/jason.svg",
+        "size": "1.15 KB",
+        "hash": "6615b9143e9b41e6b985c4fecdde0926"
+      },
+      "syringe.svg": {
+        "name": "syringe.svg",
+        "path": "scary/syringe.svg",
+        "size": "754 B",
+        "hash": "cb05f61703e2a0763b3175307991b790"
+      },
+      "voodoo-doll-1531948.svg": {
+        "name": "voodoo-doll-1531948.svg",
+        "path": "scary/voodoo-doll-1531948.svg",
+        "size": "3.13 KB",
+        "hash": "78774d588011c23863e9b767b288edf0"
+      },
+      "pumpkin-lamp-02-1531920.svg": {
+        "name": "pumpkin-lamp-02-1531920.svg",
+        "path": "scary/pumpkin-lamp-02-1531920.svg",
+        "size": "1.38 KB",
+        "hash": "3f876b71ef107534a6b85b04269494a3"
+      },
+      "skull-1531952.svg": {
+        "name": "skull-1531952.svg",
+        "path": "scary/skull-1531952.svg",
+        "size": "2.08 KB",
+        "hash": "2d7d3d846f3042625dc917ca3e212eb9"
+      },
+      "web-744563.svg": {
+        "name": "web-744563.svg",
+        "path": "scary/web-744563.svg",
+        "size": "2.94 KB",
+        "hash": "ad73e7ba77e5cbd5dac0aef68c5bb66e"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "bones.svg",
+        "path": "scary/bones.svg",
+        "size": "1.55 KB",
+        "hash": "3f787b7aa11beee57b7303ac0a50d1ee"
+      },
+      {
+        "name": "231-bone.svg",
+        "path": "scary/231-bone.svg",
+        "size": "1.28 KB",
+        "hash": "95dc5ecc2c46351de59c48cc0f7f3d71"
+      },
+      {
+        "name": "ghost-1531959.svg",
+        "path": "scary/ghost-1531959.svg",
+        "size": "1.46 KB",
+        "hash": "ea06c4c9622f0cc54a7808ee6e12d78d"
+      },
+      {
+        "name": "gravethree.svg",
+        "path": "scary/gravethree.svg",
+        "size": "203 B",
+        "hash": "8be2c8ca7d3432904cbda4ae76fd8da5"
+      },
+      {
+        "name": "jason.svg",
+        "path": "scary/jason.svg",
+        "size": "1.15 KB",
+        "hash": "6615b9143e9b41e6b985c4fecdde0926"
+      },
+      {
+        "name": "syringe.svg",
+        "path": "scary/syringe.svg",
+        "size": "754 B",
+        "hash": "cb05f61703e2a0763b3175307991b790"
+      },
+      {
+        "name": "voodoo-doll-1531948.svg",
+        "path": "scary/voodoo-doll-1531948.svg",
+        "size": "3.13 KB",
+        "hash": "78774d588011c23863e9b767b288edf0"
+      },
+      {
+        "name": "pumpkin-lamp-02-1531920.svg",
+        "path": "scary/pumpkin-lamp-02-1531920.svg",
+        "size": "1.38 KB",
+        "hash": "3f876b71ef107534a6b85b04269494a3"
+      },
+      {
+        "name": "skull-1531952.svg",
+        "path": "scary/skull-1531952.svg",
+        "size": "2.08 KB",
+        "hash": "2d7d3d846f3042625dc917ca3e212eb9"
+      },
+      {
+        "name": "web-744563.svg",
+        "path": "scary/web-744563.svg",
+        "size": "2.94 KB",
+        "hash": "ad73e7ba77e5cbd5dac0aef68c5bb66e"
+      }
+    ]
+  },
+  "space": {
+    "name": "space",
+    "path": "space",
+    "size": "12.32 KB",
+    "icons": {
+      "167-satellite.svg": {
+        "name": "167-satellite.svg",
+        "path": "space/167-satellite.svg",
+        "size": "2.14 KB",
+        "hash": "15dbea44453635aa834e29269f179aac"
+      },
+      "planet-2120155.svg": {
+        "name": "planet-2120155.svg",
+        "path": "space/planet-2120155.svg",
+        "size": "3.36 KB",
+        "hash": "c1b93a111003eed2867e63810728b80a"
+      },
+      "266-atom.svg": {
+        "name": "266-atom.svg",
+        "path": "space/266-atom.svg",
+        "size": "4.59 KB",
+        "hash": "9e1ae9880b66758dc64c47825d51d2a2"
+      },
+      "295-rocket.svg": {
+        "name": "295-rocket.svg",
+        "path": "space/295-rocket.svg",
+        "size": "1.81 KB",
+        "hash": "67afd370df381e1818b55ec61d32bdad"
+      },
+      "rocket.svg": {
+        "name": "rocket.svg",
+        "path": "space/rocket.svg",
+        "size": "425 B",
+        "hash": "a1c234d6c9dcd1aa4a5c4ed762894aaa"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "167-satellite.svg",
+        "path": "space/167-satellite.svg",
+        "size": "2.14 KB",
+        "hash": "15dbea44453635aa834e29269f179aac"
+      },
+      {
+        "name": "planet-2120155.svg",
+        "path": "space/planet-2120155.svg",
+        "size": "3.36 KB",
+        "hash": "c1b93a111003eed2867e63810728b80a"
+      },
+      {
+        "name": "266-atom.svg",
+        "path": "space/266-atom.svg",
+        "size": "4.59 KB",
+        "hash": "9e1ae9880b66758dc64c47825d51d2a2"
+      },
+      {
+        "name": "295-rocket.svg",
+        "path": "space/295-rocket.svg",
+        "size": "1.81 KB",
+        "hash": "67afd370df381e1818b55ec61d32bdad"
+      },
+      {
+        "name": "rocket.svg",
+        "path": "space/rocket.svg",
+        "size": "425 B",
+        "hash": "a1c234d6c9dcd1aa4a5c4ed762894aaa"
+      }
+    ]
+  },
+  "weather": {
+    "name": "weather",
+    "path": "weather",
+    "size": "8.88 KB",
+    "icons": {
+      "215-wind.svg": {
+        "name": "215-wind.svg",
+        "path": "weather/215-wind.svg",
+        "size": "2.28 KB",
+        "hash": "db5472acbc4b11d3b7693f4d17ffc1ab"
+      },
+      "226-cactus.svg": {
+        "name": "226-cactus.svg",
+        "path": "weather/226-cactus.svg",
+        "size": "1.33 KB",
+        "hash": "aeb689885c5784bc5a673c223532293c"
+      },
+      "271-coconut-tree.svg": {
+        "name": "271-coconut-tree.svg",
+        "path": "weather/271-coconut-tree.svg",
+        "size": "2.04 KB",
+        "hash": "27dcd42e372d83d7e62a555771571dfc"
+      },
+      "droplet.svg": {
+        "name": "droplet.svg",
+        "path": "weather/droplet.svg",
+        "size": "570 B",
+        "hash": "850ac02a3223f60663fc8cd42dc2fb70"
+      },
+      "moon.svg": {
+        "name": "moon.svg",
+        "path": "weather/moon.svg",
+        "size": "572 B",
+        "hash": "c39c17a29a4f90dd52250ab17fd72342"
+      },
+      "weather-snow.svg": {
+        "name": "weather-snow.svg",
+        "path": "weather/weather-snow.svg",
+        "size": "2.08 KB",
+        "hash": "8be9302104ba22b860c2bd9dc3b53519"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "215-wind.svg",
+        "path": "weather/215-wind.svg",
+        "size": "2.28 KB",
+        "hash": "db5472acbc4b11d3b7693f4d17ffc1ab"
+      },
+      {
+        "name": "226-cactus.svg",
+        "path": "weather/226-cactus.svg",
+        "size": "1.33 KB",
+        "hash": "aeb689885c5784bc5a673c223532293c"
+      },
+      {
+        "name": "271-coconut-tree.svg",
+        "path": "weather/271-coconut-tree.svg",
+        "size": "2.04 KB",
+        "hash": "27dcd42e372d83d7e62a555771571dfc"
+      },
+      {
+        "name": "droplet.svg",
+        "path": "weather/droplet.svg",
+        "size": "570 B",
+        "hash": "850ac02a3223f60663fc8cd42dc2fb70"
+      },
+      {
+        "name": "moon.svg",
+        "path": "weather/moon.svg",
+        "size": "572 B",
+        "hash": "c39c17a29a4f90dd52250ab17fd72342"
+      },
+      {
+        "name": "weather-snow.svg",
+        "path": "weather/weather-snow.svg",
+        "size": "2.08 KB",
+        "hash": "8be9302104ba22b860c2bd9dc3b53519"
+      }
+    ]
+  },
+  "tech": {
+    "name": "tech",
+    "path": "tech",
+    "size": "19.5 KB",
+    "icons": {
+      "138-mobile.svg": {
+        "name": "138-mobile.svg",
+        "path": "tech/138-mobile.svg",
+        "size": "1.07 KB",
+        "hash": "11b7515d2673b3fc887bafb2b34e1390"
+      },
+      "13-calculation.svg": {
+        "name": "13-calculation.svg",
+        "path": "tech/13-calculation.svg",
+        "size": "2.81 KB",
+        "hash": "7c5dbff5ee8f34a0c8da92e86c1fbc2d"
+      },
+      "141-led.svg": {
+        "name": "141-led.svg",
+        "path": "tech/141-led.svg",
+        "size": "1.1 KB",
+        "hash": "8c1947df65df330fd1aa24f167defa09"
+      },
+      "282-lab-beaker.svg": {
+        "name": "282-lab-beaker.svg",
+        "path": "tech/282-lab-beaker.svg",
+        "size": "1.61 KB",
+        "hash": "2e3eab2dc6f6cb87cfa51912688cdcec"
+      },
+      "167-satellite.svg": {
+        "name": "167-satellite.svg",
+        "path": "tech/167-satellite.svg",
+        "size": "2.14 KB",
+        "hash": "15dbea44453635aa834e29269f179aac"
+      },
+      "at.svg": {
+        "name": "at.svg",
+        "path": "tech/at.svg",
+        "size": "391 B",
+        "hash": "40af3e0d153e5b9249e51dcf82307c1d"
+      },
+      "140-laptop.svg": {
+        "name": "140-laptop.svg",
+        "path": "tech/140-laptop.svg",
+        "size": "1.09 KB",
+        "hash": "aa646b2e8914efa47bed541d2358e359"
+      },
+      "283-lab-flask.svg": {
+        "name": "283-lab-flask.svg",
+        "path": "tech/283-lab-flask.svg",
+        "size": "1.35 KB",
+        "hash": "e63054fff453f54826e3b06af5b755df"
+      },
+      "bug.svg": {
+        "name": "bug.svg",
+        "path": "tech/bug.svg",
+        "size": "540 B",
+        "hash": "6379ae11b425f622709121f226d280aa"
+      },
+      "cloud.svg": {
+        "name": "cloud.svg",
+        "path": "tech/cloud.svg",
+        "size": "246 B",
+        "hash": "2dcf6d94c68633cf2c9e755b041c4eab"
+      },
+      "camera.svg": {
+        "name": "camera.svg",
+        "path": "tech/camera.svg",
+        "size": "456 B",
+        "hash": "17289961ca6b0fd88ffa1d3341ffd796"
+      },
+      "keyboard.svg": {
+        "name": "keyboard.svg",
+        "path": "tech/keyboard.svg",
+        "size": "502 B",
+        "hash": "b3fd214d2aae638154d8922dfeaac652"
+      },
+      "database.svg": {
+        "name": "database.svg",
+        "path": "tech/database.svg",
+        "size": "504 B",
+        "hash": "03e858e974ac839270cc4c7ade01a532"
+      },
+      "looped-square-interest.svg": {
+        "name": "looped-square-interest.svg",
+        "path": "tech/looped-square-interest.svg",
+        "size": "603 B",
+        "hash": "d188150305e15d64ef96331d231940dd"
+      },
+      "laboratory.svg": {
+        "name": "laboratory.svg",
+        "path": "tech/laboratory.svg",
+        "size": "831 B",
+        "hash": "8951715830d6e1b93c0c0a6c9bb07ac9"
+      },
+      "power.svg": {
+        "name": "power.svg",
+        "path": "tech/power.svg",
+        "size": "251 B",
+        "hash": "4a55833f23f81beb02a39738c55c4e0d"
+      },
+      "rss.svg": {
+        "name": "rss.svg",
+        "path": "tech/rss.svg",
+        "size": "321 B",
+        "hash": "5994dd7a115313aff4590ca98dd58db3"
+      },
+      "qrcode.svg": {
+        "name": "qrcode.svg",
+        "path": "tech/qrcode.svg",
+        "size": "384 B",
+        "hash": "8ea6f61c22a84beff1ca517a18d35afb"
+      },
+      "terminal.svg": {
+        "name": "terminal.svg",
+        "path": "tech/terminal.svg",
+        "size": "186 B",
+        "hash": "af947e69cd776e6bd3577ccc8a29fda1"
+      },
+      "signal-1.svg": {
+        "name": "signal-1.svg",
+        "path": "tech/signal-1.svg",
+        "size": "349 B",
+        "hash": "40b07e3211336689ab07cfdb48a5513d"
+      },
+      "server.svg": {
+        "name": "server.svg",
+        "path": "tech/server.svg",
+        "size": "406 B",
+        "hash": "8f072589ab0af5d641500cc4f6087e17"
+      },
+      "sitemap.svg": {
+        "name": "sitemap.svg",
+        "path": "tech/sitemap.svg",
+        "size": "535 B",
+        "hash": "5232c42712eeacbd31d5d655ffb48ba9"
+      },
+      "usb.svg": {
+        "name": "usb.svg",
+        "path": "tech/usb.svg",
+        "size": "673 B",
+        "hash": "11694649ceaa717d76ee79de3382c673"
+      },
+      "usbalt.svg": {
+        "name": "usbalt.svg",
+        "path": "tech/usbalt.svg",
+        "size": "724 B",
+        "hash": "eb427656a1f999175cc87b7fb69def09"
+      },
+      "wifi.svg": {
+        "name": "wifi.svg",
+        "path": "tech/wifi.svg",
+        "size": "431 B",
+        "hash": "22f213413d9a73812521fdd32284223e"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "138-mobile.svg",
+        "path": "tech/138-mobile.svg",
+        "size": "1.07 KB",
+        "hash": "11b7515d2673b3fc887bafb2b34e1390"
+      },
+      {
+        "name": "13-calculation.svg",
+        "path": "tech/13-calculation.svg",
+        "size": "2.81 KB",
+        "hash": "7c5dbff5ee8f34a0c8da92e86c1fbc2d"
+      },
+      {
+        "name": "141-led.svg",
+        "path": "tech/141-led.svg",
+        "size": "1.1 KB",
+        "hash": "8c1947df65df330fd1aa24f167defa09"
+      },
+      {
+        "name": "282-lab-beaker.svg",
+        "path": "tech/282-lab-beaker.svg",
+        "size": "1.61 KB",
+        "hash": "2e3eab2dc6f6cb87cfa51912688cdcec"
+      },
+      {
+        "name": "167-satellite.svg",
+        "path": "tech/167-satellite.svg",
+        "size": "2.14 KB",
+        "hash": "15dbea44453635aa834e29269f179aac"
+      },
+      {
+        "name": "at.svg",
+        "path": "tech/at.svg",
+        "size": "391 B",
+        "hash": "40af3e0d153e5b9249e51dcf82307c1d"
+      },
+      {
+        "name": "140-laptop.svg",
+        "path": "tech/140-laptop.svg",
+        "size": "1.09 KB",
+        "hash": "aa646b2e8914efa47bed541d2358e359"
+      },
+      {
+        "name": "283-lab-flask.svg",
+        "path": "tech/283-lab-flask.svg",
+        "size": "1.35 KB",
+        "hash": "e63054fff453f54826e3b06af5b755df"
+      },
+      {
+        "name": "bug.svg",
+        "path": "tech/bug.svg",
+        "size": "540 B",
+        "hash": "6379ae11b425f622709121f226d280aa"
+      },
+      {
+        "name": "cloud.svg",
+        "path": "tech/cloud.svg",
+        "size": "246 B",
+        "hash": "2dcf6d94c68633cf2c9e755b041c4eab"
+      },
+      {
+        "name": "camera.svg",
+        "path": "tech/camera.svg",
+        "size": "456 B",
+        "hash": "17289961ca6b0fd88ffa1d3341ffd796"
+      },
+      {
+        "name": "keyboard.svg",
+        "path": "tech/keyboard.svg",
+        "size": "502 B",
+        "hash": "b3fd214d2aae638154d8922dfeaac652"
+      },
+      {
+        "name": "database.svg",
+        "path": "tech/database.svg",
+        "size": "504 B",
+        "hash": "03e858e974ac839270cc4c7ade01a532"
+      },
+      {
+        "name": "looped-square-interest.svg",
+        "path": "tech/looped-square-interest.svg",
+        "size": "603 B",
+        "hash": "d188150305e15d64ef96331d231940dd"
+      },
+      {
+        "name": "laboratory.svg",
+        "path": "tech/laboratory.svg",
+        "size": "831 B",
+        "hash": "8951715830d6e1b93c0c0a6c9bb07ac9"
+      },
+      {
+        "name": "power.svg",
+        "path": "tech/power.svg",
+        "size": "251 B",
+        "hash": "4a55833f23f81beb02a39738c55c4e0d"
+      },
+      {
+        "name": "rss.svg",
+        "path": "tech/rss.svg",
+        "size": "321 B",
+        "hash": "5994dd7a115313aff4590ca98dd58db3"
+      },
+      {
+        "name": "qrcode.svg",
+        "path": "tech/qrcode.svg",
+        "size": "384 B",
+        "hash": "8ea6f61c22a84beff1ca517a18d35afb"
+      },
+      {
+        "name": "terminal.svg",
+        "path": "tech/terminal.svg",
+        "size": "186 B",
+        "hash": "af947e69cd776e6bd3577ccc8a29fda1"
+      },
+      {
+        "name": "signal-1.svg",
+        "path": "tech/signal-1.svg",
+        "size": "349 B",
+        "hash": "40b07e3211336689ab07cfdb48a5513d"
+      },
+      {
+        "name": "server.svg",
+        "path": "tech/server.svg",
+        "size": "406 B",
+        "hash": "8f072589ab0af5d641500cc4f6087e17"
+      },
+      {
+        "name": "sitemap.svg",
+        "path": "tech/sitemap.svg",
+        "size": "535 B",
+        "hash": "5232c42712eeacbd31d5d655ffb48ba9"
+      },
+      {
+        "name": "usb.svg",
+        "path": "tech/usb.svg",
+        "size": "673 B",
+        "hash": "11694649ceaa717d76ee79de3382c673"
+      },
+      {
+        "name": "usbalt.svg",
+        "path": "tech/usbalt.svg",
+        "size": "724 B",
+        "hash": "eb427656a1f999175cc87b7fb69def09"
+      },
+      {
+        "name": "wifi.svg",
+        "path": "tech/wifi.svg",
+        "size": "431 B",
+        "hash": "22f213413d9a73812521fdd32284223e"
+      }
+    ]
+  },
+  "charts": {
+    "name": "charts",
+    "path": "charts",
+    "size": "13.1 KB",
+    "icons": {
+      "87-battery-charging-copy.svg": {
+        "name": "87-battery-charging-copy.svg",
+        "path": "charts/87-battery-charging-copy.svg",
+        "size": "1.47 KB",
+        "hash": "9c10b0eac3b59befcd84b1810055d349"
+      },
+      "89-50-per-battery.svg": {
+        "name": "89-50-per-battery.svg",
+        "path": "charts/89-50-per-battery.svg",
+        "size": "1.01 KB",
+        "hash": "2b12bd1d2b941fccefc2d00e06ed268e"
+      },
+      "88-empty-battery.svg": {
+        "name": "88-empty-battery.svg",
+        "path": "charts/88-empty-battery.svg",
+        "size": "998 B",
+        "hash": "66ef2f254ceb1f0fdb4b4b7cadb799fb"
+      },
+      "91-full-battery.svg": {
+        "name": "91-full-battery.svg",
+        "path": "charts/91-full-battery.svg",
+        "size": "948 B",
+        "hash": "aae2ca256cad1986438700b3721c112f"
+      },
+      "battery-1.svg": {
+        "name": "battery-1.svg",
+        "path": "charts/battery-1.svg",
+        "size": "346 B",
+        "hash": "a04ac3f83d00d9d0aad7496fb65e2c11"
+      },
+      "battery-0.svg": {
+        "name": "battery-0.svg",
+        "path": "charts/battery-0.svg",
+        "size": "321 B",
+        "hash": "667793c3f2cc7869da7cbb725dc31408"
+      },
+      "battery-2.svg": {
+        "name": "battery-2.svg",
+        "path": "charts/battery-2.svg",
+        "size": "346 B",
+        "hash": "08879c50944190f44ffbd3f6582e93b2"
+      },
+      "battery-3.svg": {
+        "name": "battery-3.svg",
+        "path": "charts/battery-3.svg",
+        "size": "346 B",
+        "hash": "9f549eeac4bba555f81db88ce909e196"
+      },
+      "chart-bar.svg": {
+        "name": "chart-bar.svg",
+        "path": "charts/chart-bar.svg",
+        "size": "243 B",
+        "hash": "5163545b7bf48f17ad1981bfb9083c8b"
+      },
+      "battery-4.svg": {
+        "name": "battery-4.svg",
+        "path": "charts/battery-4.svg",
+        "size": "347 B",
+        "hash": "1730b31327ad274dd11e8d15b26e2bbe"
+      },
+      "chart-area.svg": {
+        "name": "chart-area.svg",
+        "path": "charts/chart-area.svg",
+        "size": "208 B",
+        "hash": "64b54b8e3fe4a3ea26cf0504fea767de"
+      },
+      "chart-line.svg": {
+        "name": "chart-line.svg",
+        "path": "charts/chart-line.svg",
+        "size": "397 B",
+        "hash": "7e0b37090bc535f480c30fcec4d1c884"
+      },
+      "chart-pie.svg": {
+        "name": "chart-pie.svg",
+        "path": "charts/chart-pie.svg",
+        "size": "223 B",
+        "hash": "dcb3e38afd5cf569ddc62eb3fe333fc6"
+      },
+      "heart-1.svg": {
+        "name": "heart-1.svg",
+        "path": "charts/heart-1.svg",
+        "size": "208 B",
+        "hash": "ba1e314a7fd77497c923bf83b9974548"
+      },
+      "heart-empty.svg": {
+        "name": "heart-empty.svg",
+        "path": "charts/heart-empty.svg",
+        "size": "392 B",
+        "hash": "390802878cd18a3857444261016abbff"
+      },
+      "progress-0.svg": {
+        "name": "progress-0.svg",
+        "path": "charts/progress-0.svg",
+        "size": "211 B",
+        "hash": "09c870d68d6d0c1dd894ed9459b82cb9"
+      },
+      "progress-1.svg": {
+        "name": "progress-1.svg",
+        "path": "charts/progress-1.svg",
+        "size": "236 B",
+        "hash": "44de6d339d19a59c417b28762806a7bc"
+      },
+      "progress-2.svg": {
+        "name": "progress-2.svg",
+        "path": "charts/progress-2.svg",
+        "size": "259 B",
+        "hash": "8b2a8a670213f08c28e1cd4f1cbcdb87"
+      },
+      "progress-3.svg": {
+        "name": "progress-3.svg",
+        "path": "charts/progress-3.svg",
+        "size": "284 B",
+        "hash": "db25997b21755980efd9afe088256757"
+      },
+      "star-empty-1.svg": {
+        "name": "star-empty-1.svg",
+        "path": "charts/star-empty-1.svg",
+        "size": "367 B",
+        "hash": "442e5ac063d276c1950516e1b8cc8cce"
+      },
+      "star-filled.svg": {
+        "name": "star-filled.svg",
+        "path": "charts/star-filled.svg",
+        "size": "284 B",
+        "hash": "dd64ae1c28e55ab6e7fcf91a7f233635"
+      },
+      "star-half-alt.svg": {
+        "name": "star-half-alt.svg",
+        "path": "charts/star-half-alt.svg",
+        "size": "354 B",
+        "hash": "641943bc723a428668fe69ea934bb666"
+      },
+      "thermometer-0.svg": {
+        "name": "thermometer-0.svg",
+        "path": "charts/thermometer-0.svg",
+        "size": "448 B",
+        "hash": "3c063d332accee37c385ae53edcfcfcd"
+      },
+      "thermometer-2.svg": {
+        "name": "thermometer-2.svg",
+        "path": "charts/thermometer-2.svg",
+        "size": "465 B",
+        "hash": "adb690377b879aef28a8635e12e2bb09"
+      },
+      "thermometer-3.svg": {
+        "name": "thermometer-3.svg",
+        "path": "charts/thermometer-3.svg",
+        "size": "465 B",
+        "hash": "3a83e5c4046cc63366188090969e1b27"
+      },
+      "thermometer-quarter.svg": {
+        "name": "thermometer-quarter.svg",
+        "path": "charts/thermometer-quarter.svg",
+        "size": "464 B",
+        "hash": "dcdfcf59bbd42ef93c7a100566fc6dbc"
+      },
+      "thermometer.svg": {
+        "name": "thermometer.svg",
+        "path": "charts/thermometer.svg",
+        "size": "465 B",
+        "hash": "e350afd312cbd5071b2274dfa040b233"
+      },
+      "90-80-per-battery.svg": {
+        "name": "90-80-per-battery.svg",
+        "path": "charts/90-80-per-battery.svg",
+        "size": "1 KB",
+        "hash": "82bf8cb96f64db9422be8f8b2e78e142"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "87-battery-charging-copy.svg",
+        "path": "charts/87-battery-charging-copy.svg",
+        "size": "1.47 KB",
+        "hash": "9c10b0eac3b59befcd84b1810055d349"
+      },
+      {
+        "name": "89-50-per-battery.svg",
+        "path": "charts/89-50-per-battery.svg",
+        "size": "1.01 KB",
+        "hash": "2b12bd1d2b941fccefc2d00e06ed268e"
+      },
+      {
+        "name": "88-empty-battery.svg",
+        "path": "charts/88-empty-battery.svg",
+        "size": "998 B",
+        "hash": "66ef2f254ceb1f0fdb4b4b7cadb799fb"
+      },
+      {
+        "name": "91-full-battery.svg",
+        "path": "charts/91-full-battery.svg",
+        "size": "948 B",
+        "hash": "aae2ca256cad1986438700b3721c112f"
+      },
+      {
+        "name": "battery-1.svg",
+        "path": "charts/battery-1.svg",
+        "size": "346 B",
+        "hash": "a04ac3f83d00d9d0aad7496fb65e2c11"
+      },
+      {
+        "name": "battery-0.svg",
+        "path": "charts/battery-0.svg",
+        "size": "321 B",
+        "hash": "667793c3f2cc7869da7cbb725dc31408"
+      },
+      {
+        "name": "battery-2.svg",
+        "path": "charts/battery-2.svg",
+        "size": "346 B",
+        "hash": "08879c50944190f44ffbd3f6582e93b2"
+      },
+      {
+        "name": "battery-3.svg",
+        "path": "charts/battery-3.svg",
+        "size": "346 B",
+        "hash": "9f549eeac4bba555f81db88ce909e196"
+      },
+      {
+        "name": "chart-bar.svg",
+        "path": "charts/chart-bar.svg",
+        "size": "243 B",
+        "hash": "5163545b7bf48f17ad1981bfb9083c8b"
+      },
+      {
+        "name": "battery-4.svg",
+        "path": "charts/battery-4.svg",
+        "size": "347 B",
+        "hash": "1730b31327ad274dd11e8d15b26e2bbe"
+      },
+      {
+        "name": "chart-area.svg",
+        "path": "charts/chart-area.svg",
+        "size": "208 B",
+        "hash": "64b54b8e3fe4a3ea26cf0504fea767de"
+      },
+      {
+        "name": "chart-line.svg",
+        "path": "charts/chart-line.svg",
+        "size": "397 B",
+        "hash": "7e0b37090bc535f480c30fcec4d1c884"
+      },
+      {
+        "name": "chart-pie.svg",
+        "path": "charts/chart-pie.svg",
+        "size": "223 B",
+        "hash": "dcb3e38afd5cf569ddc62eb3fe333fc6"
+      },
+      {
+        "name": "heart-1.svg",
+        "path": "charts/heart-1.svg",
+        "size": "208 B",
+        "hash": "ba1e314a7fd77497c923bf83b9974548"
+      },
+      {
+        "name": "heart-empty.svg",
+        "path": "charts/heart-empty.svg",
+        "size": "392 B",
+        "hash": "390802878cd18a3857444261016abbff"
+      },
+      {
+        "name": "progress-0.svg",
+        "path": "charts/progress-0.svg",
+        "size": "211 B",
+        "hash": "09c870d68d6d0c1dd894ed9459b82cb9"
+      },
+      {
+        "name": "progress-1.svg",
+        "path": "charts/progress-1.svg",
+        "size": "236 B",
+        "hash": "44de6d339d19a59c417b28762806a7bc"
+      },
+      {
+        "name": "progress-2.svg",
+        "path": "charts/progress-2.svg",
+        "size": "259 B",
+        "hash": "8b2a8a670213f08c28e1cd4f1cbcdb87"
+      },
+      {
+        "name": "progress-3.svg",
+        "path": "charts/progress-3.svg",
+        "size": "284 B",
+        "hash": "db25997b21755980efd9afe088256757"
+      },
+      {
+        "name": "star-empty-1.svg",
+        "path": "charts/star-empty-1.svg",
+        "size": "367 B",
+        "hash": "442e5ac063d276c1950516e1b8cc8cce"
+      },
+      {
+        "name": "star-filled.svg",
+        "path": "charts/star-filled.svg",
+        "size": "284 B",
+        "hash": "dd64ae1c28e55ab6e7fcf91a7f233635"
+      },
+      {
+        "name": "star-half-alt.svg",
+        "path": "charts/star-half-alt.svg",
+        "size": "354 B",
+        "hash": "641943bc723a428668fe69ea934bb666"
+      },
+      {
+        "name": "thermometer-0.svg",
+        "path": "charts/thermometer-0.svg",
+        "size": "448 B",
+        "hash": "3c063d332accee37c385ae53edcfcfcd"
+      },
+      {
+        "name": "thermometer-2.svg",
+        "path": "charts/thermometer-2.svg",
+        "size": "465 B",
+        "hash": "adb690377b879aef28a8635e12e2bb09"
+      },
+      {
+        "name": "thermometer-3.svg",
+        "path": "charts/thermometer-3.svg",
+        "size": "465 B",
+        "hash": "3a83e5c4046cc63366188090969e1b27"
+      },
+      {
+        "name": "thermometer-quarter.svg",
+        "path": "charts/thermometer-quarter.svg",
+        "size": "464 B",
+        "hash": "dcdfcf59bbd42ef93c7a100566fc6dbc"
+      },
+      {
+        "name": "thermometer.svg",
+        "path": "charts/thermometer.svg",
+        "size": "465 B",
+        "hash": "e350afd312cbd5071b2274dfa040b233"
+      },
+      {
+        "name": "90-80-per-battery.svg",
+        "path": "charts/90-80-per-battery.svg",
+        "size": "1 KB",
+        "hash": "82bf8cb96f64db9422be8f8b2e78e142"
+      }
+    ]
+  },
+  "basic": {
+    "name": "basic",
+    "path": "basic",
+    "size": "44.2 KB",
+    "icons": {
+      "128-flag.svg": {
+        "name": "128-flag.svg",
+        "path": "basic/128-flag.svg",
+        "size": "1.48 KB",
+        "hash": "ee956ddcaba50c67a17f74bc38d10856"
+      },
+      "17-zoom.svg": {
+        "name": "17-zoom.svg",
+        "path": "basic/17-zoom.svg",
+        "size": "1.35 KB",
+        "hash": "d8007ab2ff469d07b1e499395f9fcd35"
+      },
+      "287-information.svg": {
+        "name": "287-information.svg",
+        "path": "basic/287-information.svg",
+        "size": "1.22 KB",
+        "hash": "3fca88730be35692dd43f6a18a408b44"
+      },
+      "54-key.svg": {
+        "name": "54-key.svg",
+        "path": "basic/54-key.svg",
+        "size": "1.83 KB",
+        "hash": "838615ee6467b9d2303bfa97f995d8cc"
+      },
+      "200-speedometer.svg": {
+        "name": "200-speedometer.svg",
+        "path": "basic/200-speedometer.svg",
+        "size": "3.63 KB",
+        "hash": "5e95e7e3fd2fbccbb8d53fe7f15d8e0e"
+      },
+      "201-life-saver.svg": {
+        "name": "201-life-saver.svg",
+        "path": "basic/201-life-saver.svg",
+        "size": "1.84 KB",
+        "hash": "bb8eeb451f0b641f3889fa8cca1cb13d"
+      },
+      "attention-circled.svg": {
+        "name": "attention-circled.svg",
+        "path": "basic/attention-circled.svg",
+        "size": "378 B",
+        "hash": "b7be0a3de4d2eb23bad761898304d836"
+      },
+      "bandage.svg": {
+        "name": "bandage.svg",
+        "path": "basic/bandage.svg",
+        "size": "2.98 KB",
+        "hash": "a82160c3ad5b590cd59cf90c06d282be"
+      },
+      "bell-alt.svg": {
+        "name": "bell-alt.svg",
+        "path": "basic/bell-alt.svg",
+        "size": "414 B",
+        "hash": "5678e999637d439cbefa4f937cb2caa5"
+      },
+      "bomb.svg": {
+        "name": "bomb.svg",
+        "path": "basic/bomb.svg",
+        "size": "785 B",
+        "hash": "b62cf1f2b8ba4574e8f48b80628c4df3"
+      },
+      "bell-off.svg": {
+        "name": "bell-off.svg",
+        "path": "basic/bell-off.svg",
+        "size": "479 B",
+        "hash": "a1cb70907a3e38aa10cb4a379e27ef68"
+      },
+      "broken-link.svg": {
+        "name": "broken-link.svg",
+        "path": "basic/broken-link.svg",
+        "size": "2.15 KB",
+        "hash": "74756dd2f76187feb78bb3180537d6cd"
+      },
+      "chat-alt.svg": {
+        "name": "chat-alt.svg",
+        "path": "basic/chat-alt.svg",
+        "size": "475 B",
+        "hash": "996ada105f1d4edfcd1deb4aa10b079f"
+      },
+      "chat.svg": {
+        "name": "chat.svg",
+        "path": "basic/chat.svg",
+        "size": "305 B",
+        "hash": "32c867834a68d7ae6bd32c86abed6144"
+      },
+      "crosshairs.svg": {
+        "name": "crosshairs.svg",
+        "path": "basic/crosshairs.svg",
+        "size": "1.02 KB",
+        "hash": "45492421b90417a19174f137c79b6d04"
+      },
+      "dislike.svg": {
+        "name": "dislike.svg",
+        "path": "basic/dislike.svg",
+        "size": "2.02 KB",
+        "hash": "57c982c3ab67bd30731209a94e2ad225"
+      },
+      "eye-2.svg": {
+        "name": "eye-2.svg",
+        "path": "basic/eye-2.svg",
+        "size": "451 B",
+        "hash": "391b5acf742f8eb6a27663cb20407e15"
+      },
+      "eye-off-1.svg": {
+        "name": "eye-off-1.svg",
+        "path": "basic/eye-off-1.svg",
+        "size": "657 B",
+        "hash": "681473959c52b9367b4641873965b810"
+      },
+      "home.svg": {
+        "name": "home.svg",
+        "path": "basic/home.svg",
+        "size": "146 B",
+        "hash": "299209070d9f5952642127ed3ee11cba"
+      },
+      "injection-syringe.svg": {
+        "name": "injection-syringe.svg",
+        "path": "basic/injection-syringe.svg",
+        "size": "418 B",
+        "hash": "13d76dbca6d12c332329883afb3824a8"
+      },
+      "info-circled.svg": {
+        "name": "info-circled.svg",
+        "path": "basic/info-circled.svg",
+        "size": "393 B",
+        "hash": "5ea832fdbfa59f9ea6a2e1941aaddbe3"
+      },
+      "lightbulb.svg": {
+        "name": "lightbulb.svg",
+        "path": "basic/lightbulb.svg",
+        "size": "547 B",
+        "hash": "25ca851ea8265f87dff1c7b914b203f6"
+      },
+      "like.svg": {
+        "name": "like.svg",
+        "path": "basic/like.svg",
+        "size": "2.11 KB",
+        "hash": "1266f47f22c03c860c88d8f11b8d7193"
+      },
+      "locked.svg": {
+        "name": "locked.svg",
+        "path": "basic/locked.svg",
+        "size": "544 B",
+        "hash": "dea381b82a3a311e00082bd470827287"
+      },
+      "magic.svg": {
+        "name": "magic.svg",
+        "path": "basic/magic.svg",
+        "size": "448 B",
+        "hash": "ace7004e52cb2d5559fc7df42b9c9256"
+      },
+      "link.svg": {
+        "name": "link.svg",
+        "path": "basic/link.svg",
+        "size": "1.28 KB",
+        "hash": "871b4feb033a3acd350cff576304140f"
+      },
+      "map-pin.svg": {
+        "name": "map-pin.svg",
+        "path": "basic/map-pin.svg",
+        "size": "337 B",
+        "hash": "7831b4c4b02f7b1802062ce4085473dd"
+      },
+      "move-h.svg": {
+        "name": "move-h.svg",
+        "path": "basic/move-h.svg",
+        "size": "197 B",
+        "hash": "df847fcff95e1653bcdfbf671527fbea"
+      },
+      "magnet.svg": {
+        "name": "magnet.svg",
+        "path": "basic/magnet.svg",
+        "size": "359 B",
+        "hash": "1ac18aa159e5bf1ff2f2cb0e4c27bf56"
+      },
+      "opts-h.svg": {
+        "name": "opts-h.svg",
+        "path": "basic/opts-h.svg",
+        "size": "535 B",
+        "hash": "547a61cb0191e39697198e89db832c61"
+      },
+      "map.svg": {
+        "name": "map.svg",
+        "path": "basic/map.svg",
+        "size": "388 B",
+        "hash": "ef9f0a363fbb3261f9ede1ba5d6a37a5"
+      },
+      "opts-v.svg": {
+        "name": "opts-v.svg",
+        "path": "basic/opts-v.svg",
+        "size": "510 B",
+        "hash": "ab616567e5115bbd38c32747450dd289"
+      },
+      "nav-icon-a.svg": {
+        "name": "nav-icon-a.svg",
+        "path": "basic/nav-icon-a.svg",
+        "size": "513 B",
+        "hash": "5de37a05610febb53aedb3ecf7117d66"
+      },
+      "matrix.svg": {
+        "name": "matrix.svg",
+        "path": "basic/matrix.svg",
+        "size": "480 B",
+        "hash": "f06da9abff37bef81090b9c1e62a7ccb"
+      },
+      "paw.svg": {
+        "name": "paw.svg",
+        "path": "basic/paw.svg",
+        "size": "630 B",
+        "hash": "af70e748ba066f4aebe281d4ed528d68"
+      },
+      "paper-plane-1.svg": {
+        "name": "paper-plane-1.svg",
+        "path": "basic/paper-plane-1.svg",
+        "size": "285 B",
+        "hash": "00aaf267e3918542c427f3707d258b21"
+      },
+      "phone.svg": {
+        "name": "phone.svg",
+        "path": "basic/phone.svg",
+        "size": "358 B",
+        "hash": "3e1f2b8cc3096116b981963f8b1dc0ca"
+      },
+      "polaroid.svg": {
+        "name": "polaroid.svg",
+        "path": "basic/polaroid.svg",
+        "size": "151 B",
+        "hash": "96801c1ce50a8e3f29484e754b0a17d0"
+      },
+      "pin.svg": {
+        "name": "pin.svg",
+        "path": "basic/pin.svg",
+        "size": "364 B",
+        "hash": "46cdb45c97c107beea8a00ae2952811f"
+      },
+      "share.svg": {
+        "name": "share.svg",
+        "path": "basic/share.svg",
+        "size": "366 B",
+        "hash": "65158bca2525afcd4e76d309fa20d6ee"
+      },
+      "puzzle.svg": {
+        "name": "puzzle.svg",
+        "path": "basic/puzzle.svg",
+        "size": "662 B",
+        "hash": "e5c26aad18dc22887ea2ad546881af6d"
+      },
+      "tag.svg": {
+        "name": "tag.svg",
+        "path": "basic/tag.svg",
+        "size": "285 B",
+        "hash": "c431eee377850ae7d6fbdd5ea8916ad1"
+      },
+      "shield.svg": {
+        "name": "shield.svg",
+        "path": "basic/shield.svg",
+        "size": "517 B",
+        "hash": "2a0c5cd7628deefe212dc476abc6d6e3"
+      },
+      "scissors.svg": {
+        "name": "scissors.svg",
+        "path": "basic/scissors.svg",
+        "size": "1.14 KB",
+        "hash": "49605b4aeb7cd5f57f882f2d20a950b9"
+      },
+      "sliders.svg": {
+        "name": "sliders.svg",
+        "path": "basic/sliders.svg",
+        "size": "509 B",
+        "hash": "d137a02662ef2aa9b43d36bc99f76c75"
+      },
+      "tasks.svg": {
+        "name": "tasks.svg",
+        "path": "basic/tasks.svg",
+        "size": "437 B",
+        "hash": "8b86b6610bf4ecfdbfb088ed999ab751"
+      },
+      "toggle-off.svg": {
+        "name": "toggle-off.svg",
+        "path": "basic/toggle-off.svg",
+        "size": "468 B",
+        "hash": "ef644efb4e57118532e6046734ca9f20"
+      },
+      "toggle-on.svg": {
+        "name": "toggle-on.svg",
+        "path": "basic/toggle-on.svg",
+        "size": "353 B",
+        "hash": "56e0bf41f692ff9bacba3c4e16a5db5e"
+      },
+      "unlocked.svg": {
+        "name": "unlocked.svg",
+        "path": "basic/unlocked.svg",
+        "size": "604 B",
+        "hash": "810af1bcb9a084213c2497bd98604fab"
+      },
+      "user-secret.svg": {
+        "name": "user-secret.svg",
+        "path": "basic/user-secret.svg",
+        "size": "740 B",
+        "hash": "07a8a34154c8ed5a6e2f134344541c58"
+      },
+      "trash.svg": {
+        "name": "trash.svg",
+        "path": "basic/trash.svg",
+        "size": "713 B",
+        "hash": "1fe77d154d58dc81be71b465da47e5ea"
+      },
+      "users.svg": {
+        "name": "users.svg",
+        "path": "basic/users.svg",
+        "size": "725 B",
+        "hash": "ef9eef39f598209eb1927a865b2b8044"
+      },
+      "user-circle.svg": {
+        "name": "user-circle.svg",
+        "path": "basic/user-circle.svg",
+        "size": "434 B",
+        "hash": "11d2374cee1aa40647dc410dcca6b9f4"
+      },
+      "wrench.svg": {
+        "name": "wrench.svg",
+        "path": "basic/wrench.svg",
+        "size": "268 B",
+        "hash": "5c6745d3bf39cae3a460df880faa34ce"
+      },
+      "zoom-in.svg": {
+        "name": "zoom-in.svg",
+        "path": "basic/zoom-in.svg",
+        "size": "434 B",
+        "hash": "fb6da8ea8ac97febccddaf8b2ae7abd7"
+      },
+      "zoom-out.svg": {
+        "name": "zoom-out.svg",
+        "path": "basic/zoom-out.svg",
+        "size": "371 B",
+        "hash": "e8d6852be090b51e1ae9d3969d68b7ab"
+      },
+      "cog.svg": {
+        "name": "cog.svg",
+        "path": "basic/cog.svg",
+        "size": "727 B",
+        "hash": "d4c87c6bd4d82d056456a38aaaab7413"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "128-flag.svg",
+        "path": "basic/128-flag.svg",
+        "size": "1.48 KB",
+        "hash": "ee956ddcaba50c67a17f74bc38d10856"
+      },
+      {
+        "name": "17-zoom.svg",
+        "path": "basic/17-zoom.svg",
+        "size": "1.35 KB",
+        "hash": "d8007ab2ff469d07b1e499395f9fcd35"
+      },
+      {
+        "name": "287-information.svg",
+        "path": "basic/287-information.svg",
+        "size": "1.22 KB",
+        "hash": "3fca88730be35692dd43f6a18a408b44"
+      },
+      {
+        "name": "54-key.svg",
+        "path": "basic/54-key.svg",
+        "size": "1.83 KB",
+        "hash": "838615ee6467b9d2303bfa97f995d8cc"
+      },
+      {
+        "name": "200-speedometer.svg",
+        "path": "basic/200-speedometer.svg",
+        "size": "3.63 KB",
+        "hash": "5e95e7e3fd2fbccbb8d53fe7f15d8e0e"
+      },
+      {
+        "name": "201-life-saver.svg",
+        "path": "basic/201-life-saver.svg",
+        "size": "1.84 KB",
+        "hash": "bb8eeb451f0b641f3889fa8cca1cb13d"
+      },
+      {
+        "name": "attention-circled.svg",
+        "path": "basic/attention-circled.svg",
+        "size": "378 B",
+        "hash": "b7be0a3de4d2eb23bad761898304d836"
+      },
+      {
+        "name": "bandage.svg",
+        "path": "basic/bandage.svg",
+        "size": "2.98 KB",
+        "hash": "a82160c3ad5b590cd59cf90c06d282be"
+      },
+      {
+        "name": "bell-alt.svg",
+        "path": "basic/bell-alt.svg",
+        "size": "414 B",
+        "hash": "5678e999637d439cbefa4f937cb2caa5"
+      },
+      {
+        "name": "bomb.svg",
+        "path": "basic/bomb.svg",
+        "size": "785 B",
+        "hash": "b62cf1f2b8ba4574e8f48b80628c4df3"
+      },
+      {
+        "name": "bell-off.svg",
+        "path": "basic/bell-off.svg",
+        "size": "479 B",
+        "hash": "a1cb70907a3e38aa10cb4a379e27ef68"
+      },
+      {
+        "name": "broken-link.svg",
+        "path": "basic/broken-link.svg",
+        "size": "2.15 KB",
+        "hash": "74756dd2f76187feb78bb3180537d6cd"
+      },
+      {
+        "name": "chat-alt.svg",
+        "path": "basic/chat-alt.svg",
+        "size": "475 B",
+        "hash": "996ada105f1d4edfcd1deb4aa10b079f"
+      },
+      {
+        "name": "chat.svg",
+        "path": "basic/chat.svg",
+        "size": "305 B",
+        "hash": "32c867834a68d7ae6bd32c86abed6144"
+      },
+      {
+        "name": "crosshairs.svg",
+        "path": "basic/crosshairs.svg",
+        "size": "1.02 KB",
+        "hash": "45492421b90417a19174f137c79b6d04"
+      },
+      {
+        "name": "dislike.svg",
+        "path": "basic/dislike.svg",
+        "size": "2.02 KB",
+        "hash": "57c982c3ab67bd30731209a94e2ad225"
+      },
+      {
+        "name": "eye-2.svg",
+        "path": "basic/eye-2.svg",
+        "size": "451 B",
+        "hash": "391b5acf742f8eb6a27663cb20407e15"
+      },
+      {
+        "name": "eye-off-1.svg",
+        "path": "basic/eye-off-1.svg",
+        "size": "657 B",
+        "hash": "681473959c52b9367b4641873965b810"
+      },
+      {
+        "name": "home.svg",
+        "path": "basic/home.svg",
+        "size": "146 B",
+        "hash": "299209070d9f5952642127ed3ee11cba"
+      },
+      {
+        "name": "injection-syringe.svg",
+        "path": "basic/injection-syringe.svg",
+        "size": "418 B",
+        "hash": "13d76dbca6d12c332329883afb3824a8"
+      },
+      {
+        "name": "info-circled.svg",
+        "path": "basic/info-circled.svg",
+        "size": "393 B",
+        "hash": "5ea832fdbfa59f9ea6a2e1941aaddbe3"
+      },
+      {
+        "name": "lightbulb.svg",
+        "path": "basic/lightbulb.svg",
+        "size": "547 B",
+        "hash": "25ca851ea8265f87dff1c7b914b203f6"
+      },
+      {
+        "name": "like.svg",
+        "path": "basic/like.svg",
+        "size": "2.11 KB",
+        "hash": "1266f47f22c03c860c88d8f11b8d7193"
+      },
+      {
+        "name": "locked.svg",
+        "path": "basic/locked.svg",
+        "size": "544 B",
+        "hash": "dea381b82a3a311e00082bd470827287"
+      },
+      {
+        "name": "magic.svg",
+        "path": "basic/magic.svg",
+        "size": "448 B",
+        "hash": "ace7004e52cb2d5559fc7df42b9c9256"
+      },
+      {
+        "name": "link.svg",
+        "path": "basic/link.svg",
+        "size": "1.28 KB",
+        "hash": "871b4feb033a3acd350cff576304140f"
+      },
+      {
+        "name": "map-pin.svg",
+        "path": "basic/map-pin.svg",
+        "size": "337 B",
+        "hash": "7831b4c4b02f7b1802062ce4085473dd"
+      },
+      {
+        "name": "move-h.svg",
+        "path": "basic/move-h.svg",
+        "size": "197 B",
+        "hash": "df847fcff95e1653bcdfbf671527fbea"
+      },
+      {
+        "name": "magnet.svg",
+        "path": "basic/magnet.svg",
+        "size": "359 B",
+        "hash": "1ac18aa159e5bf1ff2f2cb0e4c27bf56"
+      },
+      {
+        "name": "opts-h.svg",
+        "path": "basic/opts-h.svg",
+        "size": "535 B",
+        "hash": "547a61cb0191e39697198e89db832c61"
+      },
+      {
+        "name": "map.svg",
+        "path": "basic/map.svg",
+        "size": "388 B",
+        "hash": "ef9f0a363fbb3261f9ede1ba5d6a37a5"
+      },
+      {
+        "name": "opts-v.svg",
+        "path": "basic/opts-v.svg",
+        "size": "510 B",
+        "hash": "ab616567e5115bbd38c32747450dd289"
+      },
+      {
+        "name": "nav-icon-a.svg",
+        "path": "basic/nav-icon-a.svg",
+        "size": "513 B",
+        "hash": "5de37a05610febb53aedb3ecf7117d66"
+      },
+      {
+        "name": "matrix.svg",
+        "path": "basic/matrix.svg",
+        "size": "480 B",
+        "hash": "f06da9abff37bef81090b9c1e62a7ccb"
+      },
+      {
+        "name": "paw.svg",
+        "path": "basic/paw.svg",
+        "size": "630 B",
+        "hash": "af70e748ba066f4aebe281d4ed528d68"
+      },
+      {
+        "name": "paper-plane-1.svg",
+        "path": "basic/paper-plane-1.svg",
+        "size": "285 B",
+        "hash": "00aaf267e3918542c427f3707d258b21"
+      },
+      {
+        "name": "phone.svg",
+        "path": "basic/phone.svg",
+        "size": "358 B",
+        "hash": "3e1f2b8cc3096116b981963f8b1dc0ca"
+      },
+      {
+        "name": "polaroid.svg",
+        "path": "basic/polaroid.svg",
+        "size": "151 B",
+        "hash": "96801c1ce50a8e3f29484e754b0a17d0"
+      },
+      {
+        "name": "pin.svg",
+        "path": "basic/pin.svg",
+        "size": "364 B",
+        "hash": "46cdb45c97c107beea8a00ae2952811f"
+      },
+      {
+        "name": "share.svg",
+        "path": "basic/share.svg",
+        "size": "366 B",
+        "hash": "65158bca2525afcd4e76d309fa20d6ee"
+      },
+      {
+        "name": "puzzle.svg",
+        "path": "basic/puzzle.svg",
+        "size": "662 B",
+        "hash": "e5c26aad18dc22887ea2ad546881af6d"
+      },
+      {
+        "name": "tag.svg",
+        "path": "basic/tag.svg",
+        "size": "285 B",
+        "hash": "c431eee377850ae7d6fbdd5ea8916ad1"
+      },
+      {
+        "name": "shield.svg",
+        "path": "basic/shield.svg",
+        "size": "517 B",
+        "hash": "2a0c5cd7628deefe212dc476abc6d6e3"
+      },
+      {
+        "name": "scissors.svg",
+        "path": "basic/scissors.svg",
+        "size": "1.14 KB",
+        "hash": "49605b4aeb7cd5f57f882f2d20a950b9"
+      },
+      {
+        "name": "sliders.svg",
+        "path": "basic/sliders.svg",
+        "size": "509 B",
+        "hash": "d137a02662ef2aa9b43d36bc99f76c75"
+      },
+      {
+        "name": "tasks.svg",
+        "path": "basic/tasks.svg",
+        "size": "437 B",
+        "hash": "8b86b6610bf4ecfdbfb088ed999ab751"
+      },
+      {
+        "name": "toggle-off.svg",
+        "path": "basic/toggle-off.svg",
+        "size": "468 B",
+        "hash": "ef644efb4e57118532e6046734ca9f20"
+      },
+      {
+        "name": "toggle-on.svg",
+        "path": "basic/toggle-on.svg",
+        "size": "353 B",
+        "hash": "56e0bf41f692ff9bacba3c4e16a5db5e"
+      },
+      {
+        "name": "unlocked.svg",
+        "path": "basic/unlocked.svg",
+        "size": "604 B",
+        "hash": "810af1bcb9a084213c2497bd98604fab"
+      },
+      {
+        "name": "user-secret.svg",
+        "path": "basic/user-secret.svg",
+        "size": "740 B",
+        "hash": "07a8a34154c8ed5a6e2f134344541c58"
+      },
+      {
+        "name": "trash.svg",
+        "path": "basic/trash.svg",
+        "size": "713 B",
+        "hash": "1fe77d154d58dc81be71b465da47e5ea"
+      },
+      {
+        "name": "users.svg",
+        "path": "basic/users.svg",
+        "size": "725 B",
+        "hash": "ef9eef39f598209eb1927a865b2b8044"
+      },
+      {
+        "name": "user-circle.svg",
+        "path": "basic/user-circle.svg",
+        "size": "434 B",
+        "hash": "11d2374cee1aa40647dc410dcca6b9f4"
+      },
+      {
+        "name": "wrench.svg",
+        "path": "basic/wrench.svg",
+        "size": "268 B",
+        "hash": "5c6745d3bf39cae3a460df880faa34ce"
+      },
+      {
+        "name": "zoom-in.svg",
+        "path": "basic/zoom-in.svg",
+        "size": "434 B",
+        "hash": "fb6da8ea8ac97febccddaf8b2ae7abd7"
+      },
+      {
+        "name": "zoom-out.svg",
+        "path": "basic/zoom-out.svg",
+        "size": "371 B",
+        "hash": "e8d6852be090b51e1ae9d3969d68b7ab"
+      },
+      {
+        "name": "cog.svg",
+        "path": "basic/cog.svg",
+        "size": "727 B",
+        "hash": "d4c87c6bd4d82d056456a38aaaab7413"
+      }
+    ]
+  },
+  "typography": {
+    "name": "typography",
+    "path": "typography",
+    "size": "17.25 KB",
+    "icons": {
+      "asterisk-1.svg": {
+        "name": "asterisk-1.svg",
+        "path": "typography/asterisk-1.svg",
+        "size": "413 B",
+        "hash": "f623e680e17bf0847ec74b114ef304a9"
+      },
+      "at-1.svg": {
+        "name": "at-1.svg",
+        "path": "typography/at-1.svg",
+        "size": "709 B",
+        "hash": "8af064d871ad128cdb2448d4490368d9"
+      },
+      "bold.svg": {
+        "name": "bold.svg",
+        "path": "typography/bold.svg",
+        "size": "600 B",
+        "hash": "04e8cc84b4a1ffd5ac53b11ad6af0285"
+      },
+      "font.svg": {
+        "name": "font.svg",
+        "path": "typography/font.svg",
+        "size": "538 B",
+        "hash": "c8c61f57c7f1f8e37d68492b7276dd88"
+      },
+      "h2.svg": {
+        "name": "h2.svg",
+        "path": "typography/h2.svg",
+        "size": "676 B",
+        "hash": "91b0b25f07f27898a2cb87727b9ce365"
+      },
+      "h1.svg": {
+        "name": "h1.svg",
+        "path": "typography/h1.svg",
+        "size": "588 B",
+        "hash": "e380a341e05268230504d493eb3b2adb"
+      },
+      "hashtag.svg": {
+        "name": "hashtag.svg",
+        "path": "typography/hashtag.svg",
+        "size": "521 B",
+        "hash": "3ff9574411bb04ff593d47e0c3a880c2"
+      },
+      "h3.svg": {
+        "name": "h3.svg",
+        "path": "typography/h3.svg",
+        "size": "665 B",
+        "hash": "7db67b4c9f1d0094ec671c3574faf7e3"
+      },
+      "header.svg": {
+        "name": "header.svg",
+        "path": "typography/header.svg",
+        "size": "793 B",
+        "hash": "f96f6a1aa3d4fbf93647b48cbd484423"
+      },
+      "i-bullet.svg": {
+        "name": "i-bullet.svg",
+        "path": "typography/i-bullet.svg",
+        "size": "263 B",
+        "hash": "6cd9d7964aac250121eb40e151951b4d"
+      },
+      "italic.svg": {
+        "name": "italic.svg",
+        "path": "typography/italic.svg",
+        "size": "429 B",
+        "hash": "12c896b696f07f6ada599f9117aa5a6b"
+      },
+      "language.svg": {
+        "name": "language.svg",
+        "path": "typography/language.svg",
+        "size": "720 B",
+        "hash": "8f9fcd149b0f5693afa403f31de22784"
+      },
+      "level-five-title.svg": {
+        "name": "level-five-title.svg",
+        "path": "typography/level-five-title.svg",
+        "size": "795 B",
+        "hash": "d818c329b7c3ed76638de8ba70e5a63a"
+      },
+      "level-four-title.svg": {
+        "name": "level-four-title.svg",
+        "path": "typography/level-four-title.svg",
+        "size": "594 B",
+        "hash": "2a79c922368fb973806fddf8d7877934"
+      },
+      "level-six-title.svg": {
+        "name": "level-six-title.svg",
+        "path": "typography/level-six-title.svg",
+        "size": "919 B",
+        "hash": "ec2766abcfb95f643c86c4ae2012aca6"
+      },
+      "list-numbered.svg": {
+        "name": "list-numbered.svg",
+        "path": "typography/list-numbered.svg",
+        "size": "758 B",
+        "hash": "f9f18861cc66dc427025fffb6014b1db"
+      },
+      "percent.svg": {
+        "name": "percent.svg",
+        "path": "typography/percent.svg",
+        "size": "471 B",
+        "hash": "da2f0aea25ae60311a099519ce52c9d0"
+      },
+      "pilcrow.svg": {
+        "name": "pilcrow.svg",
+        "path": "typography/pilcrow.svg",
+        "size": "169 B",
+        "hash": "ec166dfd1cc530b6fb91b103a18a0890"
+      },
+      "strike.svg": {
+        "name": "strike.svg",
+        "path": "typography/strike.svg",
+        "size": "666 B",
+        "hash": "cb14d9209274a48f5f79d3d06c3b7f08"
+      },
+      "quote-left.svg": {
+        "name": "quote-left.svg",
+        "path": "typography/quote-left.svg",
+        "size": "193 B",
+        "hash": "5f2f89e4678ea61dd82e91c828f8cf52"
+      },
+      "question.svg": {
+        "name": "question.svg",
+        "path": "typography/question.svg",
+        "size": "1.46 KB",
+        "hash": "6298fc0210f70cccff02499a00d0f14d"
+      },
+      "quote-right.svg": {
+        "name": "quote-right.svg",
+        "path": "typography/quote-right.svg",
+        "size": "188 B",
+        "hash": "6443990e0944d74f344c6b973d909765"
+      },
+      "text-height.svg": {
+        "name": "text-height.svg",
+        "path": "typography/text-height.svg",
+        "size": "731 B",
+        "hash": "65a12cba4d40213d5c0b3361fc00abfb"
+      },
+      "subscript.svg": {
+        "name": "subscript.svg",
+        "path": "typography/subscript.svg",
+        "size": "494 B",
+        "hash": "79dddef98195e5770e98a77ca60cb1ae"
+      },
+      "text-size.svg": {
+        "name": "text-size.svg",
+        "path": "typography/text-size.svg",
+        "size": "274 B",
+        "hash": "a78deff819b1d5227672a54f59f0d212"
+      },
+      "superscript.svg": {
+        "name": "superscript.svg",
+        "path": "typography/superscript.svg",
+        "size": "499 B",
+        "hash": "151d08a45c479d45585c5e1dc812f43a"
+      },
+      "list-bullet.svg": {
+        "name": "list-bullet.svg",
+        "path": "typography/list-bullet.svg",
+        "size": "524 B",
+        "hash": "3dc1e0e23494041084596053963759e9"
+      },
+      "text-width.svg": {
+        "name": "text-width.svg",
+        "path": "typography/text-width.svg",
+        "size": "892 B",
+        "hash": "c981aaf5849013212c92cf9c7d64460f"
+      },
+      "underline.svg": {
+        "name": "underline.svg",
+        "path": "typography/underline.svg",
+        "size": "710 B",
+        "hash": "c9d403d036a4799d58cf0732cec9babe"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "asterisk-1.svg",
+        "path": "typography/asterisk-1.svg",
+        "size": "413 B",
+        "hash": "f623e680e17bf0847ec74b114ef304a9"
+      },
+      {
+        "name": "at-1.svg",
+        "path": "typography/at-1.svg",
+        "size": "709 B",
+        "hash": "8af064d871ad128cdb2448d4490368d9"
+      },
+      {
+        "name": "bold.svg",
+        "path": "typography/bold.svg",
+        "size": "600 B",
+        "hash": "04e8cc84b4a1ffd5ac53b11ad6af0285"
+      },
+      {
+        "name": "font.svg",
+        "path": "typography/font.svg",
+        "size": "538 B",
+        "hash": "c8c61f57c7f1f8e37d68492b7276dd88"
+      },
+      {
+        "name": "h2.svg",
+        "path": "typography/h2.svg",
+        "size": "676 B",
+        "hash": "91b0b25f07f27898a2cb87727b9ce365"
+      },
+      {
+        "name": "h1.svg",
+        "path": "typography/h1.svg",
+        "size": "588 B",
+        "hash": "e380a341e05268230504d493eb3b2adb"
+      },
+      {
+        "name": "hashtag.svg",
+        "path": "typography/hashtag.svg",
+        "size": "521 B",
+        "hash": "3ff9574411bb04ff593d47e0c3a880c2"
+      },
+      {
+        "name": "h3.svg",
+        "path": "typography/h3.svg",
+        "size": "665 B",
+        "hash": "7db67b4c9f1d0094ec671c3574faf7e3"
+      },
+      {
+        "name": "header.svg",
+        "path": "typography/header.svg",
+        "size": "793 B",
+        "hash": "f96f6a1aa3d4fbf93647b48cbd484423"
+      },
+      {
+        "name": "i-bullet.svg",
+        "path": "typography/i-bullet.svg",
+        "size": "263 B",
+        "hash": "6cd9d7964aac250121eb40e151951b4d"
+      },
+      {
+        "name": "italic.svg",
+        "path": "typography/italic.svg",
+        "size": "429 B",
+        "hash": "12c896b696f07f6ada599f9117aa5a6b"
+      },
+      {
+        "name": "language.svg",
+        "path": "typography/language.svg",
+        "size": "720 B",
+        "hash": "8f9fcd149b0f5693afa403f31de22784"
+      },
+      {
+        "name": "level-five-title.svg",
+        "path": "typography/level-five-title.svg",
+        "size": "795 B",
+        "hash": "d818c329b7c3ed76638de8ba70e5a63a"
+      },
+      {
+        "name": "level-four-title.svg",
+        "path": "typography/level-four-title.svg",
+        "size": "594 B",
+        "hash": "2a79c922368fb973806fddf8d7877934"
+      },
+      {
+        "name": "level-six-title.svg",
+        "path": "typography/level-six-title.svg",
+        "size": "919 B",
+        "hash": "ec2766abcfb95f643c86c4ae2012aca6"
+      },
+      {
+        "name": "list-numbered.svg",
+        "path": "typography/list-numbered.svg",
+        "size": "758 B",
+        "hash": "f9f18861cc66dc427025fffb6014b1db"
+      },
+      {
+        "name": "percent.svg",
+        "path": "typography/percent.svg",
+        "size": "471 B",
+        "hash": "da2f0aea25ae60311a099519ce52c9d0"
+      },
+      {
+        "name": "pilcrow.svg",
+        "path": "typography/pilcrow.svg",
+        "size": "169 B",
+        "hash": "ec166dfd1cc530b6fb91b103a18a0890"
+      },
+      {
+        "name": "strike.svg",
+        "path": "typography/strike.svg",
+        "size": "666 B",
+        "hash": "cb14d9209274a48f5f79d3d06c3b7f08"
+      },
+      {
+        "name": "quote-left.svg",
+        "path": "typography/quote-left.svg",
+        "size": "193 B",
+        "hash": "5f2f89e4678ea61dd82e91c828f8cf52"
+      },
+      {
+        "name": "question.svg",
+        "path": "typography/question.svg",
+        "size": "1.46 KB",
+        "hash": "6298fc0210f70cccff02499a00d0f14d"
+      },
+      {
+        "name": "quote-right.svg",
+        "path": "typography/quote-right.svg",
+        "size": "188 B",
+        "hash": "6443990e0944d74f344c6b973d909765"
+      },
+      {
+        "name": "text-height.svg",
+        "path": "typography/text-height.svg",
+        "size": "731 B",
+        "hash": "65a12cba4d40213d5c0b3361fc00abfb"
+      },
+      {
+        "name": "subscript.svg",
+        "path": "typography/subscript.svg",
+        "size": "494 B",
+        "hash": "79dddef98195e5770e98a77ca60cb1ae"
+      },
+      {
+        "name": "text-size.svg",
+        "path": "typography/text-size.svg",
+        "size": "274 B",
+        "hash": "a78deff819b1d5227672a54f59f0d212"
+      },
+      {
+        "name": "superscript.svg",
+        "path": "typography/superscript.svg",
+        "size": "499 B",
+        "hash": "151d08a45c479d45585c5e1dc812f43a"
+      },
+      {
+        "name": "list-bullet.svg",
+        "path": "typography/list-bullet.svg",
+        "size": "524 B",
+        "hash": "3dc1e0e23494041084596053963759e9"
+      },
+      {
+        "name": "text-width.svg",
+        "path": "typography/text-width.svg",
+        "size": "892 B",
+        "hash": "c981aaf5849013212c92cf9c7d64460f"
+      },
+      {
+        "name": "underline.svg",
+        "path": "typography/underline.svg",
+        "size": "710 B",
+        "hash": "c9d403d036a4799d58cf0732cec9babe"
+      }
+    ]
+  },
+  "logos": {
+    "name": "logos",
+    "path": "logos",
+    "size": "47.35 KB",
+    "icons": {
+      "acrobat.svg": {
+        "name": "acrobat.svg",
+        "path": "logos/acrobat.svg",
+        "size": "551 B",
+        "hash": "6a2bab229b23aa4abb9ac3842ef37f4e"
+      },
+      "amazon.svg": {
+        "name": "amazon.svg",
+        "path": "logos/amazon.svg",
+        "size": "882 B",
+        "hash": "b5fe1dfd1136ce0c665d3d01d9e4459f"
+      },
+      "android.svg": {
+        "name": "android.svg",
+        "path": "logos/android.svg",
+        "size": "755 B",
+        "hash": "e58816303d970d07ae738cfec254c30c"
+      },
+      "apple.svg": {
+        "name": "apple.svg",
+        "path": "logos/apple.svg",
+        "size": "424 B",
+        "hash": "ccc271ebaef2a68c40cc709578380a67"
+      },
+      "bitbucket.svg": {
+        "name": "bitbucket.svg",
+        "path": "logos/bitbucket.svg",
+        "size": "564 B",
+        "hash": "a5bb682b51c204d3aef2444a7adc3a2a"
+      },
+      "appstore.svg": {
+        "name": "appstore.svg",
+        "path": "logos/appstore.svg",
+        "size": "461 B",
+        "hash": "420682fbd0b67642b3d365d7e34ba23b"
+      },
+      "bitcoin.svg": {
+        "name": "bitcoin.svg",
+        "path": "logos/bitcoin.svg",
+        "size": "700 B",
+        "hash": "3bac5465c7dab0bda32702a59d847da8"
+      },
+      "cc-amex.svg": {
+        "name": "cc-amex.svg",
+        "path": "logos/cc-amex.svg",
+        "size": "1.89 KB",
+        "hash": "a9272fa11c0d9e899820bba1b3f10146"
+      },
+      "cc-discover.svg": {
+        "name": "cc-discover.svg",
+        "path": "logos/cc-discover.svg",
+        "size": "1 KB",
+        "hash": "fb6461f5362d2d80946e1b42fbd1dfc6"
+      },
+      "cc-2.svg": {
+        "name": "cc-2.svg",
+        "path": "logos/cc-2.svg",
+        "size": "676 B",
+        "hash": "78f47b49edf6f18e15dcb83038787916"
+      },
+      "cc-mastercard.svg": {
+        "name": "cc-mastercard.svg",
+        "path": "logos/cc-mastercard.svg",
+        "size": "2.04 KB",
+        "hash": "4c56f01442b478c1b71aa8b3b4762db7"
+      },
+      "cc-paypal.svg": {
+        "name": "cc-paypal.svg",
+        "path": "logos/cc-paypal.svg",
+        "size": "1.21 KB",
+        "hash": "a52c2d942135730d68b86fce22f5ce6f"
+      },
+      "cc-visa.svg": {
+        "name": "cc-visa.svg",
+        "path": "logos/cc-visa.svg",
+        "size": "631 B",
+        "hash": "df53f18d49ff7ac5bfe2b8f89186c565"
+      },
+      "cc-stripe.svg": {
+        "name": "cc-stripe.svg",
+        "path": "logos/cc-stripe.svg",
+        "size": "1.01 KB",
+        "hash": "c290931b14215450cda7c0f273a94396"
+      },
+      "creative-commons.svg": {
+        "name": "creative-commons.svg",
+        "path": "logos/creative-commons.svg",
+        "size": "863 B",
+        "hash": "45bb37ed96f28f2659c78b5f5948ea87"
+      },
+      "chrome-1.svg": {
+        "name": "chrome-1.svg",
+        "path": "logos/chrome-1.svg",
+        "size": "432 B",
+        "hash": "3a11679c27669f65b77784eb2c851027"
+      },
+      "codepen.svg": {
+        "name": "codepen.svg",
+        "path": "logos/codepen.svg",
+        "size": "952 B",
+        "hash": "110e54891daecb8965b3ae5de9cc40c6"
+      },
+      "credit-card-alt.svg": {
+        "name": "credit-card-alt.svg",
+        "path": "logos/credit-card-alt.svg",
+        "size": "252 B",
+        "hash": "964323923901d36861dc6dedb352f8aa"
+      },
+      "dropbox.svg": {
+        "name": "dropbox.svg",
+        "path": "logos/dropbox.svg",
+        "size": "283 B",
+        "hash": "ebf8e2ff006116c46437467f85d161d3"
+      },
+      "edge.svg": {
+        "name": "edge.svg",
+        "path": "logos/edge.svg",
+        "size": "401 B",
+        "hash": "79e41aa2d30c9d678a99191f60ef58fb"
+      },
+      "css3.svg": {
+        "name": "css3.svg",
+        "path": "logos/css3.svg",
+        "size": "187 B",
+        "hash": "8a362a0f44a14358188f16d4b731f775"
+      },
+      "empire.svg": {
+        "name": "empire.svg",
+        "path": "logos/empire.svg",
+        "size": "1.2 KB",
+        "hash": "4257385c43386c7bccf3b1f7019bc4cf"
+      },
+      "evernote.svg": {
+        "name": "evernote.svg",
+        "path": "logos/evernote.svg",
+        "size": "840 B",
+        "hash": "ce75b8ab4bd72b32d00db9e6e048c66c"
+      },
+      "ebay.svg": {
+        "name": "ebay.svg",
+        "path": "logos/ebay.svg",
+        "size": "1.17 KB",
+        "hash": "019559d1437979da65bbbe8fe35e100b"
+      },
+      "facebook-1.svg": {
+        "name": "facebook-1.svg",
+        "path": "logos/facebook-1.svg",
+        "size": "207 B",
+        "hash": "5a1f1813d6ad991c8abf0f94f156f947"
+      },
+      "female.svg": {
+        "name": "female.svg",
+        "path": "logos/female.svg",
+        "size": "281 B",
+        "hash": "dc98635fdc5a281fd229bd52f0ea9aeb"
+      },
+      "firefox.svg": {
+        "name": "firefox.svg",
+        "path": "logos/firefox.svg",
+        "size": "575 B",
+        "hash": "5ab3660ec2858eabbbed76b1586ba482"
+      },
+      "female-1.svg": {
+        "name": "female-1.svg",
+        "path": "logos/female-1.svg",
+        "size": "442 B",
+        "hash": "1658dbc605b631eda6d798495170faef"
+      },
+      "github.svg": {
+        "name": "github.svg",
+        "path": "logos/github.svg",
+        "size": "728 B",
+        "hash": "4ef456c0189a36557881c2ea201e18b8"
+      },
+      "gmail.svg": {
+        "name": "gmail.svg",
+        "path": "logos/gmail.svg",
+        "size": "255 B",
+        "hash": "d39649b01de254052058743a5a1785c5"
+      },
+      "google-1.svg": {
+        "name": "google-1.svg",
+        "path": "logos/google-1.svg",
+        "size": "330 B",
+        "hash": "1493414fe03141812191cf80cc6a8ee8"
+      },
+      "grav.svg": {
+        "name": "grav.svg",
+        "path": "logos/grav.svg",
+        "size": "1.37 KB",
+        "hash": "6549e3e9b45841dd634836acf57485ea"
+      },
+      "googleplay.svg": {
+        "name": "googleplay.svg",
+        "path": "logos/googleplay.svg",
+        "size": "212 B",
+        "hash": "634241a13d45819434cb178465a37dcb"
+      },
+      "h-sigh.svg": {
+        "name": "h-sigh.svg",
+        "path": "logos/h-sigh.svg",
+        "size": "387 B",
+        "hash": "77b574325936e11668cbf573ce61e1c6"
+      },
+      "instagram-filled.svg": {
+        "name": "instagram-filled.svg",
+        "path": "logos/instagram-filled.svg",
+        "size": "489 B",
+        "hash": "f55af3c439c0305066af973a8bb69226"
+      },
+      "internet-explorer.svg": {
+        "name": "internet-explorer.svg",
+        "path": "logos/internet-explorer.svg",
+        "size": "573 B",
+        "hash": "a4af923954d709dcb40743be36f8d489"
+      },
+      "html5.svg": {
+        "name": "html5.svg",
+        "path": "logos/html5.svg",
+        "size": "402 B",
+        "hash": "ec97eb1500ab7d3719a0e4f6fd5e5c78"
+      },
+      "itunes.svg": {
+        "name": "itunes.svg",
+        "path": "logos/itunes.svg",
+        "size": "424 B",
+        "hash": "9b9f24b2c6290eb09ced597ce4c70883"
+      },
+      "linkedin.svg": {
+        "name": "linkedin.svg",
+        "path": "logos/linkedin.svg",
+        "size": "341 B",
+        "hash": "f2c3eb08726daf2ab6761f924632c18a"
+      },
+      "linux.svg": {
+        "name": "linux.svg",
+        "path": "logos/linux.svg",
+        "size": "2.71 KB",
+        "hash": "518ae909f44269f6d22db55e03c752fa"
+      },
+      "opera.svg": {
+        "name": "opera.svg",
+        "path": "logos/opera.svg",
+        "size": "474 B",
+        "hash": "3433dc6deb468110c3a3ae451cb97f31"
+      },
+      "lego.svg": {
+        "name": "lego.svg",
+        "path": "logos/lego.svg",
+        "size": "1.05 KB",
+        "hash": "423b2b4336f05bdca6c8efe0813afc77"
+      },
+      "male.svg": {
+        "name": "male.svg",
+        "path": "logos/male.svg",
+        "size": "286 B",
+        "hash": "7677e054fa0779f90bd190643adaf339"
+      },
+      "macstore.svg": {
+        "name": "macstore.svg",
+        "path": "logos/macstore.svg",
+        "size": "737 B",
+        "hash": "ae9cc0b410fac02f50cba148452f79ad"
+      },
+      "rebel.svg": {
+        "name": "rebel.svg",
+        "path": "logos/rebel.svg",
+        "size": "674 B",
+        "hash": "6b9fe960f889592bf568ada9310b8cd4"
+      },
+      "paypal.svg": {
+        "name": "paypal.svg",
+        "path": "logos/paypal.svg",
+        "size": "378 B",
+        "hash": "c4ecdb1fe0777587707bd148f5340fec"
+      },
+      "reddit.svg": {
+        "name": "reddit.svg",
+        "path": "logos/reddit.svg",
+        "size": "1.15 KB",
+        "hash": "d02a1b7aef4b5be515ab3c0e05ef51d4"
+      },
+      "pinterest.svg": {
+        "name": "pinterest.svg",
+        "path": "logos/pinterest.svg",
+        "size": "541 B",
+        "hash": "a7ff8d91fa184ab2541af68dc75a2a24"
+      },
+      "registered.svg": {
+        "name": "registered.svg",
+        "path": "logos/registered.svg",
+        "size": "590 B",
+        "hash": "c8b685c3fa2c8c40169ca2742e29fcc2"
+      },
+      "safari.svg": {
+        "name": "safari.svg",
+        "path": "logos/safari.svg",
+        "size": "988 B",
+        "hash": "0131fdd6e1f6713d506984b9efbdc5d8"
+      },
+      "snapchat-ghost.svg": {
+        "name": "snapchat-ghost.svg",
+        "path": "logos/snapchat-ghost.svg",
+        "size": "618 B",
+        "hash": "3aa115be7cd8476c68626ff1052d2762"
+      },
+      "soundcloud.svg": {
+        "name": "soundcloud.svg",
+        "path": "logos/soundcloud.svg",
+        "size": "907 B",
+        "hash": "4387373ecbc5061244d5a5eb8cc3f2b5"
+      },
+      "stackoverflow.svg": {
+        "name": "stackoverflow.svg",
+        "path": "logos/stackoverflow.svg",
+        "size": "286 B",
+        "hash": "7d11b06f04bc32fcd53959bbecaa444e"
+      },
+      "trademark.svg": {
+        "name": "trademark.svg",
+        "path": "logos/trademark.svg",
+        "size": "471 B",
+        "hash": "cd5c954be42d341f0bb2b527806ff6b9"
+      },
+      "steam-1.svg": {
+        "name": "steam-1.svg",
+        "path": "logos/steam-1.svg",
+        "size": "535 B",
+        "hash": "650bcbd141ef95c156573311094c8f0b"
+      },
+      "traffic-cone.svg": {
+        "name": "traffic-cone.svg",
+        "path": "logos/traffic-cone.svg",
+        "size": "408 B",
+        "hash": "44853e96a3a07fae66f48765616b4243"
+      },
+      "trello.svg": {
+        "name": "trello.svg",
+        "path": "logos/trello.svg",
+        "size": "353 B",
+        "hash": "524fc9694296427601ac1b37c2d46f20"
+      },
+      "tumblr.svg": {
+        "name": "tumblr.svg",
+        "path": "logos/tumblr.svg",
+        "size": "356 B",
+        "hash": "2aff5461bceec72b672efdea464d254a"
+      },
+      "universal-access.svg": {
+        "name": "universal-access.svg",
+        "path": "logos/universal-access.svg",
+        "size": "833 B",
+        "hash": "b2bbf7dfb055eed1abac6577c85cb4d9"
+      },
+      "twitter-bird.svg": {
+        "name": "twitter-bird.svg",
+        "path": "logos/twitter-bird.svg",
+        "size": "460 B",
+        "hash": "94edf171eb26154a82d0bbd336422984"
+      },
+      "wikipedia.svg": {
+        "name": "wikipedia.svg",
+        "path": "logos/wikipedia.svg",
+        "size": "678 B",
+        "hash": "7e91109eb67f7bb3b95f1d0e17af445f"
+      },
+      "w3c.svg": {
+        "name": "w3c.svg",
+        "path": "logos/w3c.svg",
+        "size": "700 B",
+        "hash": "b53597c66f7732a3d4c917ffdae963ba"
+      },
+      "win8.svg": {
+        "name": "win8.svg",
+        "path": "logos/win8.svg",
+        "size": "192 B",
+        "hash": "a95bb48297f1377aae7431af4d447153"
+      },
+      "wordpress.svg": {
+        "name": "wordpress.svg",
+        "path": "logos/wordpress.svg",
+        "size": "473 B",
+        "hash": "0877512aecda96c2325ecc2a60577831"
+      },
+      "windows.svg": {
+        "name": "windows.svg",
+        "path": "logos/windows.svg",
+        "size": "623 B",
+        "hash": "2bc37f406a15521b3b70e67ec960a772"
+      },
+      "wordpress-1.svg": {
+        "name": "wordpress-1.svg",
+        "path": "logos/wordpress-1.svg",
+        "size": "867 B",
+        "hash": "6c74c7e1fb2a4f5a7e2b28c34dc54609"
+      },
+      "youtube.svg": {
+        "name": "youtube.svg",
+        "path": "logos/youtube.svg",
+        "size": "997 B",
+        "hash": "863aab7dc2225f9f5c6ad779f6fe6d87"
+      },
+      "yelp.svg": {
+        "name": "yelp.svg",
+        "path": "logos/yelp.svg",
+        "size": "748 B",
+        "hash": "46214897d1ae1cde36d383e41995e685"
+      },
+      "youtube-play.svg": {
+        "name": "youtube-play.svg",
+        "path": "logos/youtube-play.svg",
+        "size": "509 B",
+        "hash": "69c9b0abbae453da27d9de69fe62012f"
+      },
+      "bluetooth.svg": {
+        "name": "bluetooth.svg",
+        "path": "logos/bluetooth.svg",
+        "size": "374 B",
+        "hash": "23fe48aa115b620c4a3f00ebeeecfc22"
+      }
+    },
+    "iconsArray": [
+      {
+        "name": "acrobat.svg",
+        "path": "logos/acrobat.svg",
+        "size": "551 B",
+        "hash": "6a2bab229b23aa4abb9ac3842ef37f4e"
+      },
+      {
+        "name": "amazon.svg",
+        "path": "logos/amazon.svg",
+        "size": "882 B",
+        "hash": "b5fe1dfd1136ce0c665d3d01d9e4459f"
+      },
+      {
+        "name": "android.svg",
+        "path": "logos/android.svg",
+        "size": "755 B",
+        "hash": "e58816303d970d07ae738cfec254c30c"
+      },
+      {
+        "name": "apple.svg",
+        "path": "logos/apple.svg",
+        "size": "424 B",
+        "hash": "ccc271ebaef2a68c40cc709578380a67"
+      },
+      {
+        "name": "bitbucket.svg",
+        "path": "logos/bitbucket.svg",
+        "size": "564 B",
+        "hash": "a5bb682b51c204d3aef2444a7adc3a2a"
+      },
+      {
+        "name": "appstore.svg",
+        "path": "logos/appstore.svg",
+        "size": "461 B",
+        "hash": "420682fbd0b67642b3d365d7e34ba23b"
+      },
+      {
+        "name": "bitcoin.svg",
+        "path": "logos/bitcoin.svg",
+        "size": "700 B",
+        "hash": "3bac5465c7dab0bda32702a59d847da8"
+      },
+      {
+        "name": "cc-amex.svg",
+        "path": "logos/cc-amex.svg",
+        "size": "1.89 KB",
+        "hash": "a9272fa11c0d9e899820bba1b3f10146"
+      },
+      {
+        "name": "cc-discover.svg",
+        "path": "logos/cc-discover.svg",
+        "size": "1 KB",
+        "hash": "fb6461f5362d2d80946e1b42fbd1dfc6"
+      },
+      {
+        "name": "cc-2.svg",
+        "path": "logos/cc-2.svg",
+        "size": "676 B",
+        "hash": "78f47b49edf6f18e15dcb83038787916"
+      },
+      {
+        "name": "cc-mastercard.svg",
+        "path": "logos/cc-mastercard.svg",
+        "size": "2.04 KB",
+        "hash": "4c56f01442b478c1b71aa8b3b4762db7"
+      },
+      {
+        "name": "cc-paypal.svg",
+        "path": "logos/cc-paypal.svg",
+        "size": "1.21 KB",
+        "hash": "a52c2d942135730d68b86fce22f5ce6f"
+      },
+      {
+        "name": "cc-visa.svg",
+        "path": "logos/cc-visa.svg",
+        "size": "631 B",
+        "hash": "df53f18d49ff7ac5bfe2b8f89186c565"
+      },
+      {
+        "name": "cc-stripe.svg",
+        "path": "logos/cc-stripe.svg",
+        "size": "1.01 KB",
+        "hash": "c290931b14215450cda7c0f273a94396"
+      },
+      {
+        "name": "creative-commons.svg",
+        "path": "logos/creative-commons.svg",
+        "size": "863 B",
+        "hash": "45bb37ed96f28f2659c78b5f5948ea87"
+      },
+      {
+        "name": "chrome-1.svg",
+        "path": "logos/chrome-1.svg",
+        "size": "432 B",
+        "hash": "3a11679c27669f65b77784eb2c851027"
+      },
+      {
+        "name": "codepen.svg",
+        "path": "logos/codepen.svg",
+        "size": "952 B",
+        "hash": "110e54891daecb8965b3ae5de9cc40c6"
+      },
+      {
+        "name": "credit-card-alt.svg",
+        "path": "logos/credit-card-alt.svg",
+        "size": "252 B",
+        "hash": "964323923901d36861dc6dedb352f8aa"
+      },
+      {
+        "name": "dropbox.svg",
+        "path": "logos/dropbox.svg",
+        "size": "283 B",
+        "hash": "ebf8e2ff006116c46437467f85d161d3"
+      },
+      {
+        "name": "edge.svg",
+        "path": "logos/edge.svg",
+        "size": "401 B",
+        "hash": "79e41aa2d30c9d678a99191f60ef58fb"
+      },
+      {
+        "name": "css3.svg",
+        "path": "logos/css3.svg",
+        "size": "187 B",
+        "hash": "8a362a0f44a14358188f16d4b731f775"
+      },
+      {
+        "name": "empire.svg",
+        "path": "logos/empire.svg",
+        "size": "1.2 KB",
+        "hash": "4257385c43386c7bccf3b1f7019bc4cf"
+      },
+      {
+        "name": "evernote.svg",
+        "path": "logos/evernote.svg",
+        "size": "840 B",
+        "hash": "ce75b8ab4bd72b32d00db9e6e048c66c"
+      },
+      {
+        "name": "ebay.svg",
+        "path": "logos/ebay.svg",
+        "size": "1.17 KB",
+        "hash": "019559d1437979da65bbbe8fe35e100b"
+      },
+      {
+        "name": "facebook-1.svg",
+        "path": "logos/facebook-1.svg",
+        "size": "207 B",
+        "hash": "5a1f1813d6ad991c8abf0f94f156f947"
+      },
+      {
+        "name": "female.svg",
+        "path": "logos/female.svg",
+        "size": "281 B",
+        "hash": "dc98635fdc5a281fd229bd52f0ea9aeb"
+      },
+      {
+        "name": "firefox.svg",
+        "path": "logos/firefox.svg",
+        "size": "575 B",
+        "hash": "5ab3660ec2858eabbbed76b1586ba482"
+      },
+      {
+        "name": "female-1.svg",
+        "path": "logos/female-1.svg",
+        "size": "442 B",
+        "hash": "1658dbc605b631eda6d798495170faef"
+      },
+      {
+        "name": "github.svg",
+        "path": "logos/github.svg",
+        "size": "728 B",
+        "hash": "4ef456c0189a36557881c2ea201e18b8"
+      },
+      {
+        "name": "gmail.svg",
+        "path": "logos/gmail.svg",
+        "size": "255 B",
+        "hash": "d39649b01de254052058743a5a1785c5"
+      },
+      {
+        "name": "google-1.svg",
+        "path": "logos/google-1.svg",
+        "size": "330 B",
+        "hash": "1493414fe03141812191cf80cc6a8ee8"
+      },
+      {
+        "name": "grav.svg",
+        "path": "logos/grav.svg",
+        "size": "1.37 KB",
+        "hash": "6549e3e9b45841dd634836acf57485ea"
+      },
+      {
+        "name": "googleplay.svg",
+        "path": "logos/googleplay.svg",
+        "size": "212 B",
+        "hash": "634241a13d45819434cb178465a37dcb"
+      },
+      {
+        "name": "h-sigh.svg",
+        "path": "logos/h-sigh.svg",
+        "size": "387 B",
+        "hash": "77b574325936e11668cbf573ce61e1c6"
+      },
+      {
+        "name": "instagram-filled.svg",
+        "path": "logos/instagram-filled.svg",
+        "size": "489 B",
+        "hash": "f55af3c439c0305066af973a8bb69226"
+      },
+      {
+        "name": "internet-explorer.svg",
+        "path": "logos/internet-explorer.svg",
+        "size": "573 B",
+        "hash": "a4af923954d709dcb40743be36f8d489"
+      },
+      {
+        "name": "html5.svg",
+        "path": "logos/html5.svg",
+        "size": "402 B",
+        "hash": "ec97eb1500ab7d3719a0e4f6fd5e5c78"
+      },
+      {
+        "name": "itunes.svg",
+        "path": "logos/itunes.svg",
+        "size": "424 B",
+        "hash": "9b9f24b2c6290eb09ced597ce4c70883"
+      },
+      {
+        "name": "linkedin.svg",
+        "path": "logos/linkedin.svg",
+        "size": "341 B",
+        "hash": "f2c3eb08726daf2ab6761f924632c18a"
+      },
+      {
+        "name": "linux.svg",
+        "path": "logos/linux.svg",
+        "size": "2.71 KB",
+        "hash": "518ae909f44269f6d22db55e03c752fa"
+      },
+      {
+        "name": "opera.svg",
+        "path": "logos/opera.svg",
+        "size": "474 B",
+        "hash": "3433dc6deb468110c3a3ae451cb97f31"
+      },
+      {
+        "name": "lego.svg",
+        "path": "logos/lego.svg",
+        "size": "1.05 KB",
+        "hash": "423b2b4336f05bdca6c8efe0813afc77"
+      },
+      {
+        "name": "male.svg",
+        "path": "logos/male.svg",
+        "size": "286 B",
+        "hash": "7677e054fa0779f90bd190643adaf339"
+      },
+      {
+        "name": "macstore.svg",
+        "path": "logos/macstore.svg",
+        "size": "737 B",
+        "hash": "ae9cc0b410fac02f50cba148452f79ad"
+      },
+      {
+        "name": "rebel.svg",
+        "path": "logos/rebel.svg",
+        "size": "674 B",
+        "hash": "6b9fe960f889592bf568ada9310b8cd4"
+      },
+      {
+        "name": "paypal.svg",
+        "path": "logos/paypal.svg",
+        "size": "378 B",
+        "hash": "c4ecdb1fe0777587707bd148f5340fec"
+      },
+      {
+        "name": "reddit.svg",
+        "path": "logos/reddit.svg",
+        "size": "1.15 KB",
+        "hash": "d02a1b7aef4b5be515ab3c0e05ef51d4"
+      },
+      {
+        "name": "pinterest.svg",
+        "path": "logos/pinterest.svg",
+        "size": "541 B",
+        "hash": "a7ff8d91fa184ab2541af68dc75a2a24"
+      },
+      {
+        "name": "registered.svg",
+        "path": "logos/registered.svg",
+        "size": "590 B",
+        "hash": "c8b685c3fa2c8c40169ca2742e29fcc2"
+      },
+      {
+        "name": "safari.svg",
+        "path": "logos/safari.svg",
+        "size": "988 B",
+        "hash": "0131fdd6e1f6713d506984b9efbdc5d8"
+      },
+      {
+        "name": "snapchat-ghost.svg",
+        "path": "logos/snapchat-ghost.svg",
+        "size": "618 B",
+        "hash": "3aa115be7cd8476c68626ff1052d2762"
+      },
+      {
+        "name": "soundcloud.svg",
+        "path": "logos/soundcloud.svg",
+        "size": "907 B",
+        "hash": "4387373ecbc5061244d5a5eb8cc3f2b5"
+      },
+      {
+        "name": "stackoverflow.svg",
+        "path": "logos/stackoverflow.svg",
+        "size": "286 B",
+        "hash": "7d11b06f04bc32fcd53959bbecaa444e"
+      },
+      {
+        "name": "trademark.svg",
+        "path": "logos/trademark.svg",
+        "size": "471 B",
+        "hash": "cd5c954be42d341f0bb2b527806ff6b9"
+      },
+      {
+        "name": "steam-1.svg",
+        "path": "logos/steam-1.svg",
+        "size": "535 B",
+        "hash": "650bcbd141ef95c156573311094c8f0b"
+      },
+      {
+        "name": "traffic-cone.svg",
+        "path": "logos/traffic-cone.svg",
+        "size": "408 B",
+        "hash": "44853e96a3a07fae66f48765616b4243"
+      },
+      {
+        "name": "trello.svg",
+        "path": "logos/trello.svg",
+        "size": "353 B",
+        "hash": "524fc9694296427601ac1b37c2d46f20"
+      },
+      {
+        "name": "tumblr.svg",
+        "path": "logos/tumblr.svg",
+        "size": "356 B",
+        "hash": "2aff5461bceec72b672efdea464d254a"
+      },
+      {
+        "name": "universal-access.svg",
+        "path": "logos/universal-access.svg",
+        "size": "833 B",
+        "hash": "b2bbf7dfb055eed1abac6577c85cb4d9"
+      },
+      {
+        "name": "twitter-bird.svg",
+        "path": "logos/twitter-bird.svg",
+        "size": "460 B",
+        "hash": "94edf171eb26154a82d0bbd336422984"
+      },
+      {
+        "name": "wikipedia.svg",
+        "path": "logos/wikipedia.svg",
+        "size": "678 B",
+        "hash": "7e91109eb67f7bb3b95f1d0e17af445f"
+      },
+      {
+        "name": "w3c.svg",
+        "path": "logos/w3c.svg",
+        "size": "700 B",
+        "hash": "b53597c66f7732a3d4c917ffdae963ba"
+      },
+      {
+        "name": "win8.svg",
+        "path": "logos/win8.svg",
+        "size": "192 B",
+        "hash": "a95bb48297f1377aae7431af4d447153"
+      },
+      {
+        "name": "wordpress.svg",
+        "path": "logos/wordpress.svg",
+        "size": "473 B",
+        "hash": "0877512aecda96c2325ecc2a60577831"
+      },
+      {
+        "name": "windows.svg",
+        "path": "logos/windows.svg",
+        "size": "623 B",
+        "hash": "2bc37f406a15521b3b70e67ec960a772"
+      },
+      {
+        "name": "wordpress-1.svg",
+        "path": "logos/wordpress-1.svg",
+        "size": "867 B",
+        "hash": "6c74c7e1fb2a4f5a7e2b28c34dc54609"
+      },
+      {
+        "name": "youtube.svg",
+        "path": "logos/youtube.svg",
+        "size": "997 B",
+        "hash": "863aab7dc2225f9f5c6ad779f6fe6d87"
+      },
+      {
+        "name": "yelp.svg",
+        "path": "logos/yelp.svg",
+        "size": "748 B",
+        "hash": "46214897d1ae1cde36d383e41995e685"
+      },
+      {
+        "name": "youtube-play.svg",
+        "path": "logos/youtube-play.svg",
+        "size": "509 B",
+        "hash": "69c9b0abbae453da27d9de69fe62012f"
+      },
+      {
+        "name": "bluetooth.svg",
+        "path": "logos/bluetooth.svg",
+        "size": "374 B",
+        "hash": "23fe48aa115b620c4a3f00ebeeecfc22"
+      }
+    ]
+  }
+}

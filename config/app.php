@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'version' => app('git.version'),
+    'version' => exec("git rev-parse --short HEAD"),
 
     /*
     |--------------------------------------------------------------------------
@@ -68,6 +68,10 @@ return [
 
     'providers' => [
         App\Providers\AppServiceProvider::class,
+        App\Providers\WallpaperProvider::class,
+        OwenMelbz\LaravelStubs\StubsServiceProvider::class,
+        Codedungeon\PHPMessenger\MessengerServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class
     ],
 
 ];
